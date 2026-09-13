@@ -2,7 +2,7 @@
 
 Partner themes for Clink. This repository is included by default and cannot be removed from the app. **Affiliate** appears immediately after **Official** in the theme editor. Downloads and selection are free; affiliate themes cannot be edited, renamed, duplicated, or exported in the app.
 
-No themes are included yet. The published manifest intentionally contains an empty `themes` array until the first affiliate is ready.
+**Take Off** is the first affiliate theme: an electronic-paper keyboard in mint-white paper (`F4FFFB`) with a monospaced face, printed throughout in the affiliate's blue (`0056F7`). The panel filters that blue into a muted navy pigment and prints the legends, the key frames, the grain and the suggestion bar with it. A Canvas layer draws the same blue as *paper* on the function keys — and on a lit Shift or Return — putting them one rung down the panel's grey ladder while the letters and the space bar stay on the bright rung. The manifest is built from `Themes/` and is no longer empty.
 
 ## Structure and publishing
 
