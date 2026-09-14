@@ -12,6 +12,12 @@ Partner themes for Clink. This repository is included by default and cannot be r
 
 **Clicks 'n Clacks Light** and **Clicks 'n Clacks Dark** are the fifth affiliate: 3D Mechanical caps with sloped walls on a raised base, in Space Mono's stand-in — the site's own face. The light theme is `F3EDD5` cream keycaps on an `A89984` taupe case with `0C0C0C` legends; the dark theme is the `3E3633` dark brown the affiliate asked for, case and caps, with cream legends. Both wear accent keycaps drawn from the ramp sampled off the brand icon — `F50F24` Shift, `FC6906` Backspace, `F5DC33` 123, `86DC36` globe and `14A3FE` Return — with black legends throughout, the way the wordmark sets black type on colour.
 
+**Quiche Industries Day** and **Quiche Industries Night** are the sixth affiliate: Metal keys — machined alloy derived from the cap colour — in Avenir, the closest face iOS ships to their DM Sans. Their palette is greyscale by design, so the themes are too: `F5F5F5` caps on an `AAAAAA` deck with `111111` legends by day, and `444444` caps on `111111` by night, with `777777` the only thing that ever lights up. The night caps are the one derived value — their ramp has no step between `111111` and `777777`.
+
+## Permission
+
+Every theme here uses its affiliate's name, and in most cases their colours, **with that affiliate's permission** — several asked specifically that this be visible rather than assumed. The app says so in the sheet behind a theme's ⓘ, and only for themes from this repository: a community repository can publish a link too, and its author is a publisher, not an affiliate. Do not add a theme here until that permission exists in writing.
+
 ## Links
 
 `links.json` at the repository root maps a theme id to an `https://` URL — either bare, or as `{"url": …, "description": …}` — and `tools/build-manifest.py` merges them into that theme's manifest entry as `link` and `description`. A description is one paragraph, at most 240 characters, no line breaks. Themes absent from the file carry no link, which is the normal case. A link is metadata rather than theme bytes, so adding or changing one never moves the release version and cached manifests keep resolving to the assets they were published with. The build fails on an id that is not in `Themes/` and on any URL that is not `https://`.
