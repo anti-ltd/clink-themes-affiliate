@@ -8,13 +8,15 @@ Partner themes for Clink. This repository is included by default and cannot be r
 
 **Delphi Day** and **Delphi Night** are the third affiliate: Classic keys in monospaced semibold — cream over sage with dark-green legends, and its night sibling in near-black with pale legends — each with the number row painted in the brand colour through Canvas.
 
-**Threadify Light** and **Threadify Dark** are the fourth affiliate: soft two-level 3D pads in the system face, built from the brand's own CSS tokens — `0A0A0A` ground, `171717` surface, `262626` border hairline, `FAFAFA` and `737373` type, and `DC2626` red, with `F87171` on a lit Shift or Return. The light theme reads the same neutral ramp from the other end and keeps the red unchanged. Only the dark theme carries the site's red glow as a background gradient, stop for stop; the brand defines no light equivalent.
+**Threadify Light** and **Threadify Dark** are the fourth affiliate: flat Solid keys in the system face — the brand's UI is flat, and a sculpted material glazes a saturated red rather than holding it — built from the brand's own CSS tokens — `0A0A0A` ground, `171717` surface, `FAFAFA` and `737373` type, `DC2626` red and `F87171` for its hover step. The red is placed where the site places it: Return is the primary button, solid `DC2626` with white type; the function keys take `2A1010`, the red-tinted dark surface the app uses for a selected cell; and Backspace flashes the brand red rather than the system's. The keys carry no outline at all: their buttons have none, and a key is a button — the light theme separates its white caps with an `E5E5E5` deck rather than drawing an edge around each one. The light theme reads the same ramp from the other end. Only the dark theme carries the site's glow as a background gradient, stop for stop; the brand defines no light equivalent, so `FEF2F2` and the lighter hairline alpha are the pair's only derived values.
+
+**Clicks 'n Clacks Light** and **Clicks 'n Clacks Dark** are the fifth affiliate: 3D Mechanical caps with sloped walls on a raised base, in Space Mono's stand-in — the site's own face. The light theme is `F3EDD5` cream keycaps on an `A89984` taupe case with `0C0C0C` legends; the dark theme inverts to black caps on a black case with cream legends. Both wear accent keycaps drawn from the ramp sampled off the brand icon — `F50F24` Shift, `FC6906` Backspace, `F5DC33` 123, `86DC36` globe and `14A3FE` Return — with black legends throughout, the way the wordmark sets black type on colour.
 
 ## Links
 
 `links.json` at the repository root maps a theme id to an `https://` URL, and `tools/build-manifest.py` merges it into that theme's manifest entry as `link`. Themes absent from the file carry no link, which is the normal case. A link is metadata rather than theme bytes, so adding or changing one never moves the release version and cached manifests keep resolving to the assets they were published with. The build fails on an id that is not in `Themes/` and on any URL that is not `https://`.
 
-In the app a link appears as a small arrow on the theme's catalog tile and as a credit row naming the publisher and host at the foot of the Theme card, shown only while that theme is selected. The app takes no display text from the manifest.
+In the app a link appears as a small arrow on the theme's catalog tile, and nowhere else. The app takes no display text from the manifest.
 
 ## Structure and publishing
 

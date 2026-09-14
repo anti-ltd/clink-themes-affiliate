@@ -1,10 +1,528 @@
 {
-  "version": "themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904",
+  "version": "themes-faeb6bd8d3fa7bbbc2312a57b0353b7faf41323753946ca24f97c6a7f345f3b3",
   "themes": [
+    {
+      "id": "clicks-n-clacks-dark",
+      "name": "Clicks 'n Clacks Dark",
+      "version": "themes-faeb6bd8d3fa7bbbc2312a57b0353b7faf41323753946ca24f97c6a7f345f3b3",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.1411764705882353,
+          "g": 0.058823529411764705,
+          "r": 0.9607843137254902
+        },
+        "background": {
+          "a": 1,
+          "b": 0,
+          "g": 0,
+          "r": 0
+        },
+        "gamepadInnerRadius": 8,
+        "groupPaint": {
+          "backspace": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.023529411764705882,
+              "g": 0.4117647058823529,
+              "r": 0.9882352941176471
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.047058823529411764,
+              "g": 0.047058823529411764,
+              "r": 0.047058823529411764
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.023529411764705882,
+              "g": 0.4117647058823529,
+              "r": 0.9882352941176471
+            },
+            "text": {
+              "a": 1,
+              "b": 0.047058823529411764,
+              "g": 0.047058823529411764,
+              "r": 0.047058823529411764
+            }
+          },
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.996078431372549,
+              "g": 0.6392156862745098,
+              "r": 0.0784313725490196
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.047058823529411764,
+              "g": 0.047058823529411764,
+              "r": 0.047058823529411764
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.996078431372549,
+              "g": 0.6392156862745098,
+              "r": 0.0784313725490196
+            },
+            "text": {
+              "a": 1,
+              "b": 0.047058823529411764,
+              "g": 0.047058823529411764,
+              "r": 0.047058823529411764
+            }
+          },
+          "shift": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.1411764705882353,
+              "g": 0.058823529411764705,
+              "r": 0.9607843137254902
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.047058823529411764,
+              "g": 0.047058823529411764,
+              "r": 0.047058823529411764
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.1411764705882353,
+              "g": 0.058823529411764705,
+              "r": 0.9607843137254902
+            },
+            "text": {
+              "a": 1,
+              "b": 0.047058823529411764,
+              "g": 0.047058823529411764,
+              "r": 0.047058823529411764
+            }
+          },
+          "space": {
+            "fill": {
+              "a": 1,
+              "b": 0.047058823529411764,
+              "g": 0.047058823529411764,
+              "r": 0.047058823529411764
+            },
+            "text": {
+              "a": 1,
+              "b": 0.8352941176470589,
+              "g": 0.9294117647058824,
+              "r": 0.9529411764705882
+            }
+          }
+        },
+        "id": "clicks-n-clacks-dark",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.047058823529411764,
+          "g": 0.047058823529411764,
+          "r": 0.047058823529411764
+        },
+        "keyFontDesign": "monospaced",
+        "keyFontWeight": "medium",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {
+          "f:globe": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.21176470588235294,
+              "g": 0.8627450980392157,
+              "r": 0.5254901960784314
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.047058823529411764,
+              "g": 0.047058823529411764,
+              "r": 0.047058823529411764
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.21176470588235294,
+              "g": 0.8627450980392157,
+              "r": 0.5254901960784314
+            },
+            "text": {
+              "a": 1,
+              "b": 0.047058823529411764,
+              "g": 0.047058823529411764,
+              "r": 0.047058823529411764
+            }
+          },
+          "f:planeToggle": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.2,
+              "g": 0.8627450980392157,
+              "r": 0.9607843137254902
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.047058823529411764,
+              "g": 0.047058823529411764,
+              "r": 0.047058823529411764
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.2,
+              "g": 0.8627450980392157,
+              "r": 0.9607843137254902
+            },
+            "text": {
+              "a": 1,
+              "b": 0.047058823529411764,
+              "g": 0.047058823529411764,
+              "r": 0.047058823529411764
+            }
+          }
+        },
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.8352941176470589,
+          "g": 0.9294117647058824,
+          "r": 0.9529411764705882
+        },
+        "material": "3d",
+        "mechanicalInnerRadius": 30,
+        "mechanicalRaised": true,
+        "mechanicalShowEdges": true,
+        "name": "Clicks 'n Clacks Dark",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0,
+          "g": 0,
+          "r": 0
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.8352941176470589,
+          "g": 0.9294117647058824,
+          "r": 0.9529411764705882
+        },
+        "suggestionText": {
+          "a": 1,
+          "b": 0.8352941176470589,
+          "g": 0.9294117647058824,
+          "r": 0.9529411764705882
+        },
+        "threeDVariant": "mechanical"
+      },
+      "asset": {
+        "path": "clicks-n-clacks-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-faeb6bd8d3fa7bbbc2312a57b0353b7faf41323753946ca24f97c6a7f345f3b3/clicks-n-clacks-dark.clinktheme",
+        "sha256": "e9d708c993301aa4d2f3893a78334c5f368cce47a930ef10439eee679b780566",
+        "byteCount": 5230
+      },
+      "link": "https://clicksnclacks.com"
+    },
+    {
+      "id": "clicks-n-clacks-light",
+      "name": "Clicks 'n Clacks Light",
+      "version": "themes-faeb6bd8d3fa7bbbc2312a57b0353b7faf41323753946ca24f97c6a7f345f3b3",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.1411764705882353,
+          "g": 0.058823529411764705,
+          "r": 0.9607843137254902
+        },
+        "background": {
+          "a": 1,
+          "b": 0.5176470588235295,
+          "g": 0.6,
+          "r": 0.6588235294117647
+        },
+        "gamepadInnerRadius": 8,
+        "groupPaint": {
+          "backspace": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.023529411764705882,
+              "g": 0.4117647058823529,
+              "r": 0.9882352941176471
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.047058823529411764,
+              "g": 0.047058823529411764,
+              "r": 0.047058823529411764
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.023529411764705882,
+              "g": 0.4117647058823529,
+              "r": 0.9882352941176471
+            },
+            "text": {
+              "a": 1,
+              "b": 0.047058823529411764,
+              "g": 0.047058823529411764,
+              "r": 0.047058823529411764
+            }
+          },
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.996078431372549,
+              "g": 0.6392156862745098,
+              "r": 0.0784313725490196
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.047058823529411764,
+              "g": 0.047058823529411764,
+              "r": 0.047058823529411764
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.996078431372549,
+              "g": 0.6392156862745098,
+              "r": 0.0784313725490196
+            },
+            "text": {
+              "a": 1,
+              "b": 0.047058823529411764,
+              "g": 0.047058823529411764,
+              "r": 0.047058823529411764
+            }
+          },
+          "shift": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.1411764705882353,
+              "g": 0.058823529411764705,
+              "r": 0.9607843137254902
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.047058823529411764,
+              "g": 0.047058823529411764,
+              "r": 0.047058823529411764
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.1411764705882353,
+              "g": 0.058823529411764705,
+              "r": 0.9607843137254902
+            },
+            "text": {
+              "a": 1,
+              "b": 0.047058823529411764,
+              "g": 0.047058823529411764,
+              "r": 0.047058823529411764
+            }
+          },
+          "space": {
+            "fill": {
+              "a": 1,
+              "b": 0.8352941176470589,
+              "g": 0.9294117647058824,
+              "r": 0.9529411764705882
+            },
+            "text": {
+              "a": 1,
+              "b": 0.047058823529411764,
+              "g": 0.047058823529411764,
+              "r": 0.047058823529411764
+            }
+          }
+        },
+        "id": "clicks-n-clacks-light",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 0.8352941176470589,
+          "g": 0.9294117647058824,
+          "r": 0.9529411764705882
+        },
+        "keyFontDesign": "monospaced",
+        "keyFontWeight": "medium",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {
+          "f:globe": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.21176470588235294,
+              "g": 0.8627450980392157,
+              "r": 0.5254901960784314
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.047058823529411764,
+              "g": 0.047058823529411764,
+              "r": 0.047058823529411764
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.21176470588235294,
+              "g": 0.8627450980392157,
+              "r": 0.5254901960784314
+            },
+            "text": {
+              "a": 1,
+              "b": 0.047058823529411764,
+              "g": 0.047058823529411764,
+              "r": 0.047058823529411764
+            }
+          },
+          "f:planeToggle": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.2,
+              "g": 0.8627450980392157,
+              "r": 0.9607843137254902
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.047058823529411764,
+              "g": 0.047058823529411764,
+              "r": 0.047058823529411764
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.2,
+              "g": 0.8627450980392157,
+              "r": 0.9607843137254902
+            },
+            "text": {
+              "a": 1,
+              "b": 0.047058823529411764,
+              "g": 0.047058823529411764,
+              "r": 0.047058823529411764
+            }
+          }
+        },
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.047058823529411764,
+          "g": 0.047058823529411764,
+          "r": 0.047058823529411764
+        },
+        "material": "3d",
+        "mechanicalInnerRadius": 30,
+        "mechanicalRaised": true,
+        "mechanicalShowEdges": true,
+        "name": "Clicks 'n Clacks Light",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.5176470588235295,
+          "g": 0.6,
+          "r": 0.6588235294117647
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.047058823529411764,
+          "g": 0.047058823529411764,
+          "r": 0.047058823529411764
+        },
+        "suggestionText": {
+          "a": 1,
+          "b": 0.047058823529411764,
+          "g": 0.047058823529411764,
+          "r": 0.047058823529411764
+        },
+        "threeDVariant": "mechanical"
+      },
+      "asset": {
+        "path": "clicks-n-clacks-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-faeb6bd8d3fa7bbbc2312a57b0353b7faf41323753946ca24f97c6a7f345f3b3/clicks-n-clacks-light.clinktheme",
+        "sha256": "ad2129a0d58ddbed4fd9288f217c44568c4019bfed4808830a39d62870facb04",
+        "byteCount": 5317
+      },
+      "link": "https://clicksnclacks.com"
+    },
     {
       "id": "delphi-day",
       "name": "Delphi Day",
-      "version": "themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904",
+      "version": "themes-faeb6bd8d3fa7bbbc2312a57b0353b7faf41323753946ca24f97c6a7f345f3b3",
       "preview": {
         "accent": {
           "a": 1,
@@ -263,7 +781,7 @@
       },
       "asset": {
         "path": "delphi-day.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904/delphi-day.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-faeb6bd8d3fa7bbbc2312a57b0353b7faf41323753946ca24f97c6a7f345f3b3/delphi-day.clinktheme",
         "sha256": "bb688076305ffd87ca818ce8a705246699607772ab525db096d0a79c19b26067",
         "byteCount": 5396
       },
@@ -272,7 +790,7 @@
     {
       "id": "delphi-night",
       "name": "Delphi Night",
-      "version": "themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904",
+      "version": "themes-faeb6bd8d3fa7bbbc2312a57b0353b7faf41323753946ca24f97c6a7f345f3b3",
       "preview": {
         "accent": {
           "a": 1,
@@ -531,7 +1049,7 @@
       },
       "asset": {
         "path": "delphi-night.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904/delphi-night.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-faeb6bd8d3fa7bbbc2312a57b0353b7faf41323753946ca24f97c6a7f345f3b3/delphi-night.clinktheme",
         "sha256": "20b9121e4b6d62413d1203427a82f4e5fbcba22fe54eabb258c5887e2b715d6f",
         "byteCount": 5406
       },
@@ -540,7 +1058,7 @@
     {
       "id": "take-off-dark",
       "name": "Take Off Dark",
-      "version": "themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904",
+      "version": "themes-faeb6bd8d3fa7bbbc2312a57b0353b7faf41323753946ca24f97c6a7f345f3b3",
       "preview": {
         "accent": {
           "a": 1,
@@ -671,7 +1189,7 @@
       },
       "asset": {
         "path": "take-off-dark.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904/take-off-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-faeb6bd8d3fa7bbbc2312a57b0353b7faf41323753946ca24f97c6a7f345f3b3/take-off-dark.clinktheme",
         "sha256": "a626c3d212412b35e777f6ec0f7d4a9d5ec2ece2dba7b07d43407f4e7777a9fd",
         "byteCount": 2091
       },
@@ -680,7 +1198,7 @@
     {
       "id": "take-off-light",
       "name": "Take Off Light",
-      "version": "themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904",
+      "version": "themes-faeb6bd8d3fa7bbbc2312a57b0353b7faf41323753946ca24f97c6a7f345f3b3",
       "preview": {
         "accent": {
           "a": 1,
@@ -811,7 +1329,7 @@
       },
       "asset": {
         "path": "take-off-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904/take-off-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-faeb6bd8d3fa7bbbc2312a57b0353b7faf41323753946ca24f97c6a7f345f3b3/take-off-light.clinktheme",
         "sha256": "ba29d4fd5162fbb8fc19f05c4da0a4e455f2631d074accbb78207a9d9966dc13",
         "byteCount": 2232
       },
@@ -820,7 +1338,7 @@
     {
       "id": "threadflow-light",
       "name": "ThreadFlow Light",
-      "version": "themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904",
+      "version": "themes-faeb6bd8d3fa7bbbc2312a57b0353b7faf41323753946ca24f97c6a7f345f3b3",
       "preview": {
         "accent": {
           "a": 1,
@@ -960,7 +1478,7 @@
       },
       "asset": {
         "path": "threadflow-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904/threadflow-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-faeb6bd8d3fa7bbbc2312a57b0353b7faf41323753946ca24f97c6a7f345f3b3/threadflow-light.clinktheme",
         "sha256": "19dd20f39cb9110b2a78a720ae03a07aeab351853d21df821ca578b12b0fdde1",
         "byteCount": 2632
       }
@@ -968,7 +1486,7 @@
     {
       "id": "threadflow",
       "name": "ThreadFlow Dark",
-      "version": "themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904",
+      "version": "themes-faeb6bd8d3fa7bbbc2312a57b0353b7faf41323753946ca24f97c6a7f345f3b3",
       "preview": {
         "accent": {
           "a": 1,
@@ -1108,7 +1626,7 @@
       },
       "asset": {
         "path": "threadflow.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904/threadflow.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-faeb6bd8d3fa7bbbc2312a57b0353b7faf41323753946ca24f97c6a7f345f3b3/threadflow.clinktheme",
         "sha256": "f642c68d887326bdc0078f639b23e9c7688e869743c1da1febe677ed1e4f5181",
         "byteCount": 2633
       }
@@ -1116,7 +1634,7 @@
     {
       "id": "threadify-dark",
       "name": "Threadify Dark",
-      "version": "themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904",
+      "version": "themes-faeb6bd8d3fa7bbbc2312a57b0353b7faf41323753946ca24f97c6a7f345f3b3",
       "preview": {
         "accent": {
           "a": 1,
@@ -1173,16 +1691,60 @@
           "type": "linear"
         },
         "groupPaint": {
+          "backspace": {
+            "pressed": {
+              "a": 1,
+              "b": 0.14901960784313725,
+              "g": 0.14901960784313725,
+              "r": 0.8627450980392157
+            }
+          },
           "return": {
             "activeFill": {
+              "a": 1,
+              "b": 0.14901960784313725,
+              "g": 0.14901960784313725,
+              "r": 0.8627450980392157
+            },
+            "activeText": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.14901960784313725,
+              "g": 0.14901960784313725,
+              "r": 0.8627450980392157
+            },
+            "pressed": {
               "a": 1,
               "b": 0.44313725490196076,
               "g": 0.44313725490196076,
               "r": 0.9725490196078431
+            },
+            "text": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
             }
           },
           "shift": {
             "activeFill": {
+              "a": 1,
+              "b": 0.14901960784313725,
+              "g": 0.14901960784313725,
+              "r": 0.8627450980392157
+            },
+            "activeText": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            },
+            "pressed": {
               "a": 1,
               "b": 0.44313725490196076,
               "g": 0.44313725490196076,
@@ -1214,13 +1776,13 @@
         },
         "keyInnerStroke": {
           "color": {
-            "a": 1,
-            "b": 0.14901960784313725,
-            "g": 0.14901960784313725,
-            "r": 0.14901960784313725
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
           },
-          "style": "solid",
-          "width": 0.5
+          "style": "none",
+          "width": 1
         },
         "keyOuterStroke": {
           "color": {
@@ -1250,13 +1812,13 @@
           "g": 0.9803921568627451,
           "r": 0.9803921568627451
         },
-        "material": "3d",
+        "material": "solid",
         "name": "Threadify Dark",
         "specialKeyFill": {
           "a": 1,
-          "b": 0.0392156862745098,
-          "g": 0.0392156862745098,
-          "r": 0.0392156862745098
+          "b": 0.06274509803921569,
+          "g": 0.06274509803921569,
+          "r": 0.16470588235294117
         },
         "specialKeyText": {
           "a": 1,
@@ -1269,21 +1831,20 @@
           "b": 0.9803921568627451,
           "g": 0.9803921568627451,
           "r": 0.9803921568627451
-        },
-        "threeDVariant": "modern"
+        }
       },
       "asset": {
         "path": "threadify-dark.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904/threadify-dark.clinktheme",
-        "sha256": "6f9d3d896b7056d380d312b3acb490461ca5452a79b432ce050f6030ca5cbcd9",
-        "byteCount": 3015
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-faeb6bd8d3fa7bbbc2312a57b0353b7faf41323753946ca24f97c6a7f345f3b3/threadify-dark.clinktheme",
+        "sha256": "18675265c855af2b0d434809c2970a7b1aa2076075785cb1cb9bbd7a18bbb9f2",
+        "byteCount": 3846
       },
       "link": "https://threadify.app"
     },
     {
       "id": "threadify-light",
       "name": "Threadify Light",
-      "version": "themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904",
+      "version": "themes-faeb6bd8d3fa7bbbc2312a57b0353b7faf41323753946ca24f97c6a7f345f3b3",
       "preview": {
         "accent": {
           "a": 1,
@@ -1293,21 +1854,65 @@
         },
         "background": {
           "a": 1,
-          "b": 0.9803921568627451,
-          "g": 0.9803921568627451,
-          "r": 0.9803921568627451
+          "b": 0.8980392156862745,
+          "g": 0.8980392156862745,
+          "r": 0.8980392156862745
         },
         "groupPaint": {
+          "backspace": {
+            "pressed": {
+              "a": 1,
+              "b": 0.14901960784313725,
+              "g": 0.14901960784313725,
+              "r": 0.8627450980392157
+            }
+          },
           "return": {
             "activeFill": {
+              "a": 1,
+              "b": 0.14901960784313725,
+              "g": 0.14901960784313725,
+              "r": 0.8627450980392157
+            },
+            "activeText": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.14901960784313725,
+              "g": 0.14901960784313725,
+              "r": 0.8627450980392157
+            },
+            "pressed": {
               "a": 1,
               "b": 0.44313725490196076,
               "g": 0.44313725490196076,
               "r": 0.9725490196078431
+            },
+            "text": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
             }
           },
           "shift": {
             "activeFill": {
+              "a": 1,
+              "b": 0.14901960784313725,
+              "g": 0.14901960784313725,
+              "r": 0.8627450980392157
+            },
+            "activeText": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            },
+            "pressed": {
               "a": 1,
               "b": 0.44313725490196076,
               "g": 0.44313725490196076,
@@ -1339,13 +1944,13 @@
         },
         "keyInnerStroke": {
           "color": {
-            "a": 1,
-            "b": 0.8980392156862745,
-            "g": 0.8980392156862745,
-            "r": 0.8980392156862745
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
           },
-          "style": "solid",
-          "width": 0.5
+          "style": "none",
+          "width": 1
         },
         "keyOuterStroke": {
           "color": {
@@ -1375,13 +1980,13 @@
           "g": 0.09019607843137255,
           "r": 0.09019607843137255
         },
-        "material": "3d",
+        "material": "solid",
         "name": "Threadify Light",
         "specialKeyFill": {
           "a": 1,
-          "b": 0.9803921568627451,
-          "g": 0.9803921568627451,
-          "r": 0.9803921568627451
+          "b": 0.9490196078431372,
+          "g": 0.9490196078431372,
+          "r": 0.996078431372549
         },
         "specialKeyText": {
           "a": 1,
@@ -1394,14 +1999,13 @@
           "b": 0.09019607843137255,
           "g": 0.09019607843137255,
           "r": 0.09019607843137255
-        },
-        "threeDVariant": "modern"
+        }
       },
       "asset": {
         "path": "threadify-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904/threadify-light.clinktheme",
-        "sha256": "0b456798eb3834dd64e32427b3f60182912e6978ade4fdcf7899883947d237fb",
-        "byteCount": 2107
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-faeb6bd8d3fa7bbbc2312a57b0353b7faf41323753946ca24f97c6a7f345f3b3/threadify-light.clinktheme",
+        "sha256": "52b3c3fb7213aaf23a780df7a45f973634d7c3ae8c6e0f7276023387b497bf08",
+        "byteCount": 2937
       },
       "link": "https://threadify.app"
     }
