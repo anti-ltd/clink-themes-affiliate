@@ -106,7 +106,7 @@
     "r" : 0
   },
   "material" : "eink",
-  "name" : "Take Off Light",
+  "name" : "Takeoff Light",
   "specialKeyFill" : {
     "a" : 1,
     "b" : 0.984313725490196,
