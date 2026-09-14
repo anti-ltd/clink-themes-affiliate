@@ -2,7 +2,9 @@
 
 Partner themes for Clink. This repository is included by default and cannot be removed from the app. **Affiliate** appears immediately after **Official** in the theme editor. Downloads and selection are free; affiliate themes cannot be edited, renamed, duplicated, or exported in the app.
 
-**Take Off** is the first affiliate theme: an electronic-paper keyboard in mint-white paper (`F4FFFB`) with a monospaced face, printed throughout in the affiliate's blue (`0056F7`). The panel filters that blue into a muted navy pigment and prints the legends, the key frames, the grain and the suggestion bar with it. A Canvas layer draws the same blue as *paper* on the function keys — and on a lit Shift or Return — putting them one rung down the panel's grey ladder while the letters and the space bar stay on the bright rung. The manifest is built from `Themes/` and is no longer empty.
+**Take Off Light** and **Take Off Dark** are the first affiliate themes: one electronic-paper keyboard on a panel and on an inverted panel, both monospaced and both printed in the affiliate's blue (`0056F7`). The light theme is mint-white paper (`F4FFFB`) with the blue filtered into a muted navy pigment for the legends, frames, grain and suggestion bar. The dark theme is the same sheet inverted — the material bottoms a panel out near 12%, never true black — with the blue printed as a pale periwinkle pigment instead. A light panel holds only two grey rungs, so each theme draws its function keys with whichever colour lands them on the other one: the blue on the light panel, the mint-white on the dark. Letters and the space bar keep the ground's own rung. The manifest is built from `Themes/` and is no longer empty.
+
+**ThreadFlow** is the second affiliate: smoked mechanical caps (`1D1D1F`) over amber switches on a near-black deck (`0C0C0D`), with monospaced legends in the brand's primary text (`F6F4EF`) and its secondary (`C7C4BD`) on the function keys. The Switches renderer colours each key's exposed switch assembly from the lit colour, so the brand accent (`E2891F`) lights every key and the hover amber (`F0983A`) lights Shift and Return.
 
 ## Structure and publishing
 

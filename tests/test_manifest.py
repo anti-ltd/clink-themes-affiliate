@@ -83,6 +83,30 @@ class ManifestTests(unittest.TestCase):
                 self.assertEqual(len(published[asset["url"]]), asset["byteCount"])
                 self.assertIn(manifest["version"], urlparse(asset["url"]).path)
 
+    def test_links_are_optional_per_theme_and_never_touch_the_release(self):
+        # A link is repository metadata, not theme bytes: adding one must not
+        # move any theme to a new release URL, or cached manifests would stop
+        # resolving to the assets they were published with.
+        before = self.build()
+        self.assertTrue(all("link" not in pack for pack in before["themes"]))
+        (self.root / "links.json").write_text(json.dumps(
+            {"keychron-light": "https://example.com/keys"}))
+        after = self.build()
+        self.assertEqual(before["version"], after["version"])
+        linked = {pack["id"]: pack.get("link") for pack in after["themes"]}
+        self.assertEqual(linked.pop("keychron-light"), "https://example.com/keys")
+        self.assertTrue(all(link is None for link in linked.values()),
+                        "themes absent from links.json must carry no link")
+
+    def test_a_link_must_name_a_real_theme_and_be_https(self):
+        for bad in ({"not-a-theme": "https://example.com"},
+                    {"keychron-light": "http://example.com"},
+                    {"keychron-light": "javascript:alert(1)"},
+                    {"keychron-light": 42}):
+            (self.root / "links.json").write_text(json.dumps(bad))
+            with self.assertRaises(subprocess.CalledProcessError, msg=repr(bad)):
+                self.build()
+
     def test_byte_only_changes_get_a_new_url_even_if_theme_is_equivalent(self):
         first = self.build()
         path = self.root / "Themes/keychron-light.clinktheme"
