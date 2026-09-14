@@ -16,7 +16,7 @@ Partner themes for Clink. This repository is included by default and cannot be r
 
 ## Permission
 
-Every theme here uses its affiliate's name, and in most cases their colours, **with that affiliate's permission** — several asked specifically that this be visible rather than assumed. The app says so in the sheet behind a theme's ⓘ, and only for themes from this repository: a community repository can publish a link too, and its author is a publisher, not an affiliate. Do not add a theme here until that permission exists in writing.
+Every theme here uses its affiliate's name, and in most cases their colors, **with that affiliate's permission** — several asked specifically that this be visible rather than assumed. The app says so in the sheet behind a theme's ⓘ, and only for themes from this repository: a community repository can publish a link too, and its author is a publisher, not an affiliate. Do not add a theme here until that permission exists in writing.
 
 ## Links
 

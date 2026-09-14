@@ -6,17 +6,17 @@
     "r" : 0.06666666666666667
   },
   "background" : {
-    "a" : 0.3,
+    "a" : 0.34,
     "b" : 0.06666666666666667,
     "g" : 0.06666666666666667,
     "r" : 0.06666666666666667
   },
-  "glassTintStrength" : 0.7,
-  "glassVariant" : "regular",
+  "glassTintStrength" : 0.5,
+  "glassVariant" : "clear",
   "id" : "quiche-industries-night",
   "isDark" : true,
   "keyFill" : {
-    "a" : 0.11,
+    "a" : 0.08,
     "b" : 0.9607843137254902,
     "g" : 0.9607843137254902,
     "r" : 0.9607843137254902
@@ -76,10 +76,10 @@
   "material" : "liquidGlass",
   "name" : "Quiche Industries Night",
   "specialKeyFill" : {
-    "a" : 0.08,
-    "b" : 0.4666666666666667,
-    "g" : 0.4666666666666667,
-    "r" : 0.4666666666666667
+    "a" : 0.04,
+    "b" : 0.9607843137254902,
+    "g" : 0.9607843137254902,
+    "r" : 0.9607843137254902
   },
   "specialKeyText" : {
     "a" : 1,

@@ -1,10 +1,10 @@
 {
-  "version": "themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a",
+  "version": "themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0",
   "themes": [
     {
       "id": "clicks-n-clacks-dark",
       "name": "Clicks 'n Clacks Dark",
-      "version": "themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a",
+      "version": "themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0",
       "preview": {
         "accent": {
           "a": 1,
@@ -254,7 +254,7 @@
       },
       "asset": {
         "path": "clicks-n-clacks-dark.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a/clicks-n-clacks-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0/clicks-n-clacks-dark.clinktheme",
         "sha256": "a3d2c282d15f780db06c4babb0d1e47bc2b6a5d28e3bef3e2c3da6cc1fbe53df",
         "byteCount": 5251
       },
@@ -264,7 +264,7 @@
     {
       "id": "clicks-n-clacks-light",
       "name": "Clicks 'n Clacks Light",
-      "version": "themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a",
+      "version": "themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0",
       "preview": {
         "accent": {
           "a": 1,
@@ -514,7 +514,7 @@
       },
       "asset": {
         "path": "clicks-n-clacks-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a/clicks-n-clacks-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0/clicks-n-clacks-light.clinktheme",
         "sha256": "1ec20b74b0ecd183d866311e4ac9dfd707f73fc12d03bdcdc90abc5e5729395c",
         "byteCount": 5349
       },
@@ -524,7 +524,7 @@
     {
       "id": "delphi-day",
       "name": "Delphi Day",
-      "version": "themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a",
+      "version": "themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0",
       "preview": {
         "accent": {
           "a": 1,
@@ -783,7 +783,7 @@
       },
       "asset": {
         "path": "delphi-day.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a/delphi-day.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0/delphi-day.clinktheme",
         "sha256": "bb688076305ffd87ca818ce8a705246699607772ab525db096d0a79c19b26067",
         "byteCount": 5396
       },
@@ -793,7 +793,7 @@
     {
       "id": "delphi-night",
       "name": "Delphi Night",
-      "version": "themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a",
+      "version": "themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0",
       "preview": {
         "accent": {
           "a": 1,
@@ -1052,7 +1052,7 @@
       },
       "asset": {
         "path": "delphi-night.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a/delphi-night.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0/delphi-night.clinktheme",
         "sha256": "20b9121e4b6d62413d1203427a82f4e5fbcba22fe54eabb258c5887e2b715d6f",
         "byteCount": 5406
       },
@@ -1062,7 +1062,7 @@
     {
       "id": "quiche-industries-day",
       "name": "Quiche Industries Day",
-      "version": "themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a",
+      "version": "themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0",
       "preview": {
         "accent": {
           "a": 1,
@@ -1161,7 +1161,7 @@
       },
       "asset": {
         "path": "quiche-industries-day.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a/quiche-industries-day.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0/quiche-industries-day.clinktheme",
         "sha256": "00b48f93f6956979a3a934f73e2d16c5a56ed00efe2192b7a7362c9ed1dc8be0",
         "byteCount": 1741
       },
@@ -1171,7 +1171,7 @@
     {
       "id": "quiche-industries-night",
       "name": "Quiche Industries Night",
-      "version": "themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a",
+      "version": "themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0",
       "preview": {
         "accent": {
           "a": 1,
@@ -1180,17 +1180,17 @@
           "r": 0.06666666666666667
         },
         "background": {
-          "a": 0.3,
+          "a": 0.34,
           "b": 0.06666666666666667,
           "g": 0.06666666666666667,
           "r": 0.06666666666666667
         },
-        "glassTintStrength": 0.7,
-        "glassVariant": "regular",
+        "glassTintStrength": 0.5,
+        "glassVariant": "clear",
         "id": "quiche-industries-night",
         "isDark": true,
         "keyFill": {
-          "a": 0.11,
+          "a": 0.08,
           "b": 0.9607843137254902,
           "g": 0.9607843137254902,
           "r": 0.9607843137254902
@@ -1250,10 +1250,10 @@
         "material": "liquidGlass",
         "name": "Quiche Industries Night",
         "specialKeyFill": {
-          "a": 0.08,
-          "b": 0.4666666666666667,
-          "g": 0.4666666666666667,
-          "r": 0.4666666666666667
+          "a": 0.04,
+          "b": 0.9607843137254902,
+          "g": 0.9607843137254902,
+          "r": 0.9607843137254902
         },
         "specialKeyText": {
           "a": 1,
@@ -1270,9 +1270,9 @@
       },
       "asset": {
         "path": "quiche-industries-night.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a/quiche-industries-night.clinktheme",
-        "sha256": "4463e46ffa75920fef995dd5a0be5b05e5b9fd4443f82e4533d11457c95dabd2",
-        "byteCount": 1789
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0/quiche-industries-night.clinktheme",
+        "sha256": "2e04a2659c7292d998cedc8c11457bba48a2ae3322ba25bd9acceb2fbc2b9ac6",
+        "byteCount": 1788
       },
       "link": "https://quiche.industries",
       "description": "One person making a customisable browser and a read-later app, both named after a pie. No tracking, no telemetry, no signup."
@@ -1280,7 +1280,7 @@
     {
       "id": "take-off-dark",
       "name": "Takeoff Dark",
-      "version": "themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a",
+      "version": "themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0",
       "preview": {
         "accent": {
           "a": 1,
@@ -1411,7 +1411,7 @@
       },
       "asset": {
         "path": "take-off-dark.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a/take-off-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0/take-off-dark.clinktheme",
         "sha256": "1cecf1f33132fc35dc44d50a23ac3643f51a19d3a17ed84f0cee319d17baae8c",
         "byteCount": 2090
       },
@@ -1421,7 +1421,7 @@
     {
       "id": "take-off-light",
       "name": "Takeoff Light",
-      "version": "themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a",
+      "version": "themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0",
       "preview": {
         "accent": {
           "a": 1,
@@ -1552,7 +1552,7 @@
       },
       "asset": {
         "path": "take-off-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a/take-off-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0/take-off-light.clinktheme",
         "sha256": "a718c4767a9eb325b2a6d823d851c2c0026ddbcc9409adbeb800bcb4742c1f80",
         "byteCount": 2231
       },
@@ -1562,7 +1562,7 @@
     {
       "id": "threadflow-light",
       "name": "ThreadFlow Light",
-      "version": "themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a",
+      "version": "themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0",
       "preview": {
         "accent": {
           "a": 1,
@@ -1702,7 +1702,7 @@
       },
       "asset": {
         "path": "threadflow-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a/threadflow-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0/threadflow-light.clinktheme",
         "sha256": "19dd20f39cb9110b2a78a720ae03a07aeab351853d21df821ca578b12b0fdde1",
         "byteCount": 2632
       }
@@ -1710,7 +1710,7 @@
     {
       "id": "threadflow",
       "name": "ThreadFlow Dark",
-      "version": "themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a",
+      "version": "themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0",
       "preview": {
         "accent": {
           "a": 1,
@@ -1850,7 +1850,7 @@
       },
       "asset": {
         "path": "threadflow.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a/threadflow.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0/threadflow.clinktheme",
         "sha256": "f642c68d887326bdc0078f639b23e9c7688e869743c1da1febe677ed1e4f5181",
         "byteCount": 2633
       }
@@ -1858,7 +1858,7 @@
     {
       "id": "threadify-dark",
       "name": "Threadify Dark",
-      "version": "themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a",
+      "version": "themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0",
       "preview": {
         "accent": {
           "a": 1,
@@ -2059,7 +2059,7 @@
       },
       "asset": {
         "path": "threadify-dark.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a/threadify-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0/threadify-dark.clinktheme",
         "sha256": "18675265c855af2b0d434809c2970a7b1aa2076075785cb1cb9bbd7a18bbb9f2",
         "byteCount": 3846
       },
@@ -2069,7 +2069,7 @@
     {
       "id": "threadify-light",
       "name": "Threadify Light",
-      "version": "themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a",
+      "version": "themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0",
       "preview": {
         "accent": {
           "a": 1,
@@ -2228,7 +2228,7 @@
       },
       "asset": {
         "path": "threadify-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba558f148c5800598c41e7101d9bc8acf9dd0f9759d858b6894f58075bcd992a/threadify-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-72acce20b60b56fe918a360e651e7b293035b736c5c6686f0d3d6be5639de0f0/threadify-light.clinktheme",
         "sha256": "52b3c3fb7213aaf23a780df7a45f973634d7c3ae8c6e0f7276023387b497bf08",
         "byteCount": 2937
       },
