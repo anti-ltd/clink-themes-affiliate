@@ -4,7 +4,17 @@ Partner themes for Clink. This repository is included by default and cannot be r
 
 **Take Off Light** and **Take Off Dark** are the first affiliate themes: one electronic-paper keyboard on a panel and on an inverted panel, both monospaced and both printed in the affiliate's blue (`0056F7`). The light theme is mint-white paper (`F4FFFB`) with the blue filtered into a muted navy pigment for the legends, frames, grain and suggestion bar. The dark theme is the same sheet inverted — the material bottoms a panel out near 12%, never true black — with the blue printed as a pale periwinkle pigment instead. A light panel holds only two grey rungs, so each theme draws its function keys with whichever colour lands them on the other one: the blue on the light panel, the mint-white on the dark. Letters and the space bar keep the ground's own rung. The manifest is built from `Themes/` and is no longer empty.
 
-**ThreadFlow** is the second affiliate: smoked mechanical caps (`1D1D1F`) over amber switches on a near-black deck (`0C0C0D`), with monospaced legends in the brand's primary text (`F6F4EF`) and its secondary (`C7C4BD`) on the function keys. The Switches renderer colours each key's exposed switch assembly from the lit colour, so the brand accent (`E2891F`) lights every key and the hover amber (`F0983A`) lights Shift and Return.
+**ThreadFlow Dark** and **ThreadFlow Light** are the second affiliate: translucent mechanical caps over visible switches, monospaced throughout. The dark theme is smoked caps (`1D1D1F`) on a near-black deck (`0C0C0D`) with primary-text legends (`F6F4EF`) and secondary (`C7C4BD`) on the function keys; the light theme swaps those four neutrals' roles, so the two text tones become the deck and the caps and the two surface tones become the legends. The Switches renderer colours each key's exposed switch assembly from the resolved lit colour, then the key colour, then the accent — so both themes paint the character keys with their own cap colour to keep those switches neutral, leaving the brand accent (`E2891F`) on the controls and the hover amber (`F0983A`) on a lit Shift or Return.
+
+**Delphi Day** and **Delphi Night** are the third affiliate: Classic keys in monospaced semibold — cream over sage with dark-green legends, and its night sibling in near-black with pale legends — each with the number row painted in the brand colour through Canvas.
+
+**Threadify Light** and **Threadify Dark** are the fourth affiliate: soft two-level 3D pads in the system face, built from the brand's own CSS tokens — `0A0A0A` ground, `171717` surface, `262626` border hairline, `FAFAFA` and `737373` type, and `DC2626` red, with `F87171` on a lit Shift or Return. The light theme reads the same neutral ramp from the other end and keeps the red unchanged. Only the dark theme carries the site's red glow as a background gradient, stop for stop; the brand defines no light equivalent.
+
+## Links
+
+`links.json` at the repository root maps a theme id to an `https://` URL, and `tools/build-manifest.py` merges it into that theme's manifest entry as `link`. Themes absent from the file carry no link, which is the normal case. A link is metadata rather than theme bytes, so adding or changing one never moves the release version and cached manifests keep resolving to the assets they were published with. The build fails on an id that is not in `Themes/` and on any URL that is not `https://`.
+
+In the app a link appears as a small arrow on the theme's catalog tile and as a credit row naming the publisher and host at the foot of the Theme card, shown only while that theme is selected. The app takes no display text from the manifest.
 
 ## Structure and publishing
 

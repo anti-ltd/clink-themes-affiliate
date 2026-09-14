@@ -1,10 +1,10 @@
 {
-  "version": "themes-8111c47a297403a89a5a9f9852a7c33f414d5ae1e90fcb3b88ddf18bcc8336f2",
+  "version": "themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904",
   "themes": [
     {
       "id": "delphi-day",
       "name": "Delphi Day",
-      "version": "themes-8111c47a297403a89a5a9f9852a7c33f414d5ae1e90fcb3b88ddf18bcc8336f2",
+      "version": "themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904",
       "preview": {
         "accent": {
           "a": 1,
@@ -263,7 +263,7 @@
       },
       "asset": {
         "path": "delphi-day.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-8111c47a297403a89a5a9f9852a7c33f414d5ae1e90fcb3b88ddf18bcc8336f2/delphi-day.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904/delphi-day.clinktheme",
         "sha256": "bb688076305ffd87ca818ce8a705246699607772ab525db096d0a79c19b26067",
         "byteCount": 5396
       },
@@ -272,7 +272,7 @@
     {
       "id": "delphi-night",
       "name": "Delphi Night",
-      "version": "themes-8111c47a297403a89a5a9f9852a7c33f414d5ae1e90fcb3b88ddf18bcc8336f2",
+      "version": "themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904",
       "preview": {
         "accent": {
           "a": 1,
@@ -531,7 +531,7 @@
       },
       "asset": {
         "path": "delphi-night.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-8111c47a297403a89a5a9f9852a7c33f414d5ae1e90fcb3b88ddf18bcc8336f2/delphi-night.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904/delphi-night.clinktheme",
         "sha256": "20b9121e4b6d62413d1203427a82f4e5fbcba22fe54eabb258c5887e2b715d6f",
         "byteCount": 5406
       },
@@ -540,7 +540,7 @@
     {
       "id": "take-off-dark",
       "name": "Take Off Dark",
-      "version": "themes-8111c47a297403a89a5a9f9852a7c33f414d5ae1e90fcb3b88ddf18bcc8336f2",
+      "version": "themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904",
       "preview": {
         "accent": {
           "a": 1,
@@ -671,7 +671,7 @@
       },
       "asset": {
         "path": "take-off-dark.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-8111c47a297403a89a5a9f9852a7c33f414d5ae1e90fcb3b88ddf18bcc8336f2/take-off-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904/take-off-dark.clinktheme",
         "sha256": "a626c3d212412b35e777f6ec0f7d4a9d5ec2ece2dba7b07d43407f4e7777a9fd",
         "byteCount": 2091
       },
@@ -680,7 +680,7 @@
     {
       "id": "take-off-light",
       "name": "Take Off Light",
-      "version": "themes-8111c47a297403a89a5a9f9852a7c33f414d5ae1e90fcb3b88ddf18bcc8336f2",
+      "version": "themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904",
       "preview": {
         "accent": {
           "a": 1,
@@ -811,16 +811,164 @@
       },
       "asset": {
         "path": "take-off-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-8111c47a297403a89a5a9f9852a7c33f414d5ae1e90fcb3b88ddf18bcc8336f2/take-off-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904/take-off-light.clinktheme",
         "sha256": "ba29d4fd5162fbb8fc19f05c4da0a4e455f2631d074accbb78207a9d9966dc13",
         "byteCount": 2232
       },
       "link": "https://apps.apple.com/gb/app/takeoff-simplified-flights/id6763347742"
     },
     {
+      "id": "threadflow-light",
+      "name": "ThreadFlow Light",
+      "version": "themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.12156862745098039,
+          "g": 0.5372549019607843,
+          "r": 0.8862745098039215
+        },
+        "background": {
+          "a": 1,
+          "b": 0.7411764705882353,
+          "g": 0.7686274509803922,
+          "r": 0.7803921568627451
+        },
+        "groupPaint": {
+          "letters": {
+            "fill": {
+              "a": 1,
+              "b": 0.9372549019607843,
+              "g": 0.9568627450980393,
+              "r": 0.9647058823529412
+            }
+          },
+          "numbers": {
+            "fill": {
+              "a": 1,
+              "b": 0.9372549019607843,
+              "g": 0.9568627450980393,
+              "r": 0.9647058823529412
+            }
+          },
+          "punctuation": {
+            "fill": {
+              "a": 1,
+              "b": 0.9372549019607843,
+              "g": 0.9568627450980393,
+              "r": 0.9647058823529412
+            }
+          },
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.22745098039215686,
+              "g": 0.596078431372549,
+              "r": 0.9411764705882353
+            }
+          },
+          "shift": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.22745098039215686,
+              "g": 0.596078431372549,
+              "r": 0.9411764705882353
+            }
+          }
+        },
+        "id": "threadflow-light",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 0.9372549019607843,
+          "g": 0.9568627450980393,
+          "r": 0.9647058823529412
+        },
+        "keyFontDesign": "monospaced",
+        "keyFontWeight": "medium",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.050980392156862744,
+          "g": 0.047058823529411764,
+          "r": 0.047058823529411764
+        },
+        "material": "3d",
+        "name": "ThreadFlow Light",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.7411764705882353,
+          "g": 0.7686274509803922,
+          "r": 0.7803921568627451
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.12156862745098039,
+          "g": 0.11372549019607843,
+          "r": 0.11372549019607843
+        },
+        "suggestionText": {
+          "a": 1,
+          "b": 0.050980392156862744,
+          "g": 0.047058823529411764,
+          "r": 0.047058823529411764
+        },
+        "threeDVariant": "mechanicalSwitches"
+      },
+      "asset": {
+        "path": "threadflow-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904/threadflow-light.clinktheme",
+        "sha256": "19dd20f39cb9110b2a78a720ae03a07aeab351853d21df821ca578b12b0fdde1",
+        "byteCount": 2632
+      }
+    },
+    {
       "id": "threadflow",
-      "name": "ThreadFlow",
-      "version": "themes-8111c47a297403a89a5a9f9852a7c33f414d5ae1e90fcb3b88ddf18bcc8336f2",
+      "name": "ThreadFlow Dark",
+      "version": "themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904",
       "preview": {
         "accent": {
           "a": 1,
@@ -937,7 +1085,7 @@
           "r": 0.9647058823529412
         },
         "material": "3d",
-        "name": "ThreadFlow",
+        "name": "ThreadFlow Dark",
         "specialKeyFill": {
           "a": 1,
           "b": 0.050980392156862744,
@@ -960,10 +1108,302 @@
       },
       "asset": {
         "path": "threadflow.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-8111c47a297403a89a5a9f9852a7c33f414d5ae1e90fcb3b88ddf18bcc8336f2/threadflow.clinktheme",
-        "sha256": "c8371a6e52ab4fb68c7a0f68da095928172e3f090c514c3880cf808cbd5e7b6b",
-        "byteCount": 2628
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904/threadflow.clinktheme",
+        "sha256": "f642c68d887326bdc0078f639b23e9c7688e869743c1da1febe677ed1e4f5181",
+        "byteCount": 2633
       }
+    },
+    {
+      "id": "threadify-dark",
+      "name": "Threadify Dark",
+      "version": "themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.14901960784313725,
+          "g": 0.14901960784313725,
+          "r": 0.8627450980392157
+        },
+        "background": {
+          "a": 1,
+          "b": 0.0392156862745098,
+          "g": 0.0392156862745098,
+          "r": 0.0392156862745098
+        },
+        "backgroundGradient": {
+          "rotation": 180,
+          "stops": [
+            {
+              "color": {
+                "a": 1,
+                "b": 0.09019607843137255,
+                "g": 0.09019607843137255,
+                "r": 0.09019607843137255
+              },
+              "position": 0
+            },
+            {
+              "color": {
+                "a": 1,
+                "b": 0.09019607843137255,
+                "g": 0.09019607843137255,
+                "r": 0.09019607843137255
+              },
+              "position": 0.4
+            },
+            {
+              "color": {
+                "a": 1,
+                "b": 0.0392156862745098,
+                "g": 0.0392156862745098,
+                "r": 0.16470588235294117
+              },
+              "position": 0.7
+            },
+            {
+              "color": {
+                "a": 1,
+                "b": 0,
+                "g": 0,
+                "r": 0.3607843137254902
+              },
+              "position": 1
+            }
+          ],
+          "type": "linear"
+        },
+        "groupPaint": {
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.44313725490196076,
+              "g": 0.44313725490196076,
+              "r": 0.9725490196078431
+            }
+          },
+          "shift": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.44313725490196076,
+              "g": 0.44313725490196076,
+              "r": 0.9725490196078431
+            }
+          }
+        },
+        "id": "threadify-dark",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.09019607843137255,
+          "g": 0.09019607843137255,
+          "r": 0.09019607843137255
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "medium",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 1,
+            "b": 0.14901960784313725,
+            "g": 0.14901960784313725,
+            "r": 0.14901960784313725
+          },
+          "style": "solid",
+          "width": 0.5
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.9803921568627451,
+          "g": 0.9803921568627451,
+          "r": 0.9803921568627451
+        },
+        "material": "3d",
+        "name": "Threadify Dark",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.0392156862745098,
+          "g": 0.0392156862745098,
+          "r": 0.0392156862745098
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.6392156862745098,
+          "g": 0.6392156862745098,
+          "r": 0.6392156862745098
+        },
+        "suggestionText": {
+          "a": 1,
+          "b": 0.9803921568627451,
+          "g": 0.9803921568627451,
+          "r": 0.9803921568627451
+        },
+        "threeDVariant": "modern"
+      },
+      "asset": {
+        "path": "threadify-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904/threadify-dark.clinktheme",
+        "sha256": "6f9d3d896b7056d380d312b3acb490461ca5452a79b432ce050f6030ca5cbcd9",
+        "byteCount": 3015
+      },
+      "link": "https://threadify.app"
+    },
+    {
+      "id": "threadify-light",
+      "name": "Threadify Light",
+      "version": "themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.14901960784313725,
+          "g": 0.14901960784313725,
+          "r": 0.8627450980392157
+        },
+        "background": {
+          "a": 1,
+          "b": 0.9803921568627451,
+          "g": 0.9803921568627451,
+          "r": 0.9803921568627451
+        },
+        "groupPaint": {
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.44313725490196076,
+              "g": 0.44313725490196076,
+              "r": 0.9725490196078431
+            }
+          },
+          "shift": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.44313725490196076,
+              "g": 0.44313725490196076,
+              "r": 0.9725490196078431
+            }
+          }
+        },
+        "id": "threadify-light",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "medium",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 1,
+            "b": 0.8980392156862745,
+            "g": 0.8980392156862745,
+            "r": 0.8980392156862745
+          },
+          "style": "solid",
+          "width": 0.5
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.09019607843137255,
+          "g": 0.09019607843137255,
+          "r": 0.09019607843137255
+        },
+        "material": "3d",
+        "name": "Threadify Light",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.9803921568627451,
+          "g": 0.9803921568627451,
+          "r": 0.9803921568627451
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.45098039215686275,
+          "g": 0.45098039215686275,
+          "r": 0.45098039215686275
+        },
+        "suggestionText": {
+          "a": 1,
+          "b": 0.09019607843137255,
+          "g": 0.09019607843137255,
+          "r": 0.09019607843137255
+        },
+        "threeDVariant": "modern"
+      },
+      "asset": {
+        "path": "threadify-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-6e530f7f598141be5f9c5be3224600d66542c44edbac43ccce76d69d51bee904/threadify-light.clinktheme",
+        "sha256": "0b456798eb3834dd64e32427b3f60182912e6978ade4fdcf7899883947d237fb",
+        "byteCount": 2107
+      },
+      "link": "https://threadify.app"
     }
   ]
 }
