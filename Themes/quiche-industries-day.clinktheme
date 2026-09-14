@@ -6,18 +6,20 @@
     "r" : 0.4666666666666667
   },
   "background" : {
-    "a" : 1,
-    "b" : 0.6666666666666666,
-    "g" : 0.6666666666666666,
-    "r" : 0.6666666666666666
-  },
-  "id" : "quiche-industries-day",
-  "isDark" : false,
-  "keyFill" : {
-    "a" : 1,
+    "a" : 0.12,
     "b" : 0.9607843137254902,
     "g" : 0.9607843137254902,
     "r" : 0.9607843137254902
+  },
+  "glassTintStrength" : 0.55,
+  "glassVariant" : "clear",
+  "id" : "quiche-industries-day",
+  "isDark" : false,
+  "keyFill" : {
+    "a" : 0.34,
+    "b" : 1,
+    "g" : 1,
+    "r" : 1
   },
   "keyFontDesign" : "avenir",
   "keyFontWeight" : "medium",
@@ -71,13 +73,13 @@
     "g" : 0.06666666666666667,
     "r" : 0.06666666666666667
   },
-  "material" : "metal",
+  "material" : "liquidGlass",
   "name" : "Quiche Industries Day",
   "specialKeyFill" : {
-    "a" : 1,
-    "b" : 0.9019607843137255,
-    "g" : 0.9019607843137255,
-    "r" : 0.9019607843137255
+    "a" : 0.14,
+    "b" : 0.6666666666666666,
+    "g" : 0.6666666666666666,
+    "r" : 0.6666666666666666
   },
   "specialKeyText" : {
     "a" : 1,
