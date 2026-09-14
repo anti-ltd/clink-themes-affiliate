@@ -38,5 +38,13 @@
   "threadify-light": {
     "url": "https://threadify.app",
     "description": "Schedules your posts for Threads, X and LinkedIn from one place."
+  },
+  "walley-dark": {
+    "url": "https://apps.apple.com/gb/app/walley-wallpaper-backgrounds/id6504028503",
+    "description": "Walley is a premium wallpaper app crafted for beautiful iPhone setups."
+  },
+  "walley-light": {
+    "url": "https://apps.apple.com/gb/app/walley-wallpaper-backgrounds/id6504028503",
+    "description": "Walley is a premium wallpaper app crafted for beautiful iPhone setups."
   }
 }

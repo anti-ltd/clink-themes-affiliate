@@ -14,6 +14,8 @@ Partner themes for Clink. This repository is included by default and cannot be r
 
 **Quiche Industries Day** and **Quiche Industries Night** are the sixth affiliate: Liquid Glass, in Avenir — the closest face iOS ships to their DM Sans. Quiche Browser is soft and translucent, so the keyboard refracts rather than sits on top of it: Clear glass over a barely tinted `F5F5F5` deck by day, Regular over `111111` by night. Their palette is greyscale by design, so the themes are too, and the only thing that ever lights up is the one grey their own UI emphasises with: `111111` by day, their heading and link color, and `AAAAAA` by night, because emphasis lifts in a dark interface instead of darkening.
 
+**Walley Light** and **Walley Dark** are the seventh affiliate: Slab keys — broad bevel, satin face — in Futura, picked to echo the geometry of their W. The lime `CDDC3A` and the green `5CB760` are sampled from the app icon — from the dense middle of each gradient, not the lit edge a single pixel lands on, and they are the only colors on the board: Return wears the lime, Shift lights to the green, everything else is neutral. The icon's own ground is `000000`, which the dark theme uses as its deck; the light theme's `E7E8E0` and both themes' near-black/near-white legends are derived, since the brand is dark-only.
+
 ## Permission
 
 Every theme here uses its affiliate's name, and in most cases their colors, **with that affiliate's permission** — several asked specifically that this be visible rather than assumed. The app says so in the sheet behind a theme's ⓘ, and only for themes from this repository: a community repository can publish a link too, and its author is a publisher, not an affiliate. Do not add a theme here until that permission exists in writing.
