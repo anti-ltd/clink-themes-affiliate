@@ -98,6 +98,29 @@ class ManifestTests(unittest.TestCase):
         self.assertTrue(all(link is None for link in linked.values()),
                         "themes absent from links.json must carry no link")
 
+    def test_a_description_rides_with_its_link_and_is_bounded(self):
+        (self.root / "links.json").write_text(json.dumps({"keychron-light": {
+            "url": "https://example.com/keys",
+            "description": "A shop that sells keyboards and, apparently, themes.",
+        }}))
+        pack = next(p for p in self.build()["themes"] if p["id"] == "keychron-light")
+        self.assertEqual(pack["link"], "https://example.com/keys")
+        self.assertEqual(pack["description"], "A shop that sells keyboards and, apparently, themes.")
+        # A bare URL is still a valid entry and carries no description.
+        (self.root / "links.json").write_text(json.dumps({"keychron-light": "https://example.com/keys"}))
+        pack = next(p for p in self.build()["themes"] if p["id"] == "keychron-light")
+        self.assertNotIn("description", pack)
+
+    def test_a_description_must_be_one_short_paragraph(self):
+        for bad in ({"url": "https://example.com", "description": "x" * 241},
+                    {"url": "https://example.com", "description": "two\nlines"},
+                    {"url": "https://example.com", "description": "   "},
+                    {"url": "https://example.com", "description": 7},
+                    {"url": "https://example.com", "blurb": "unknown key"}):
+            (self.root / "links.json").write_text(json.dumps({"keychron-light": bad}))
+            with self.assertRaises(subprocess.CalledProcessError, msg=repr(bad)):
+                self.build()
+
     def test_a_link_must_name_a_real_theme_and_be_https(self):
         for bad in ({"not-a-theme": "https://example.com"},
                     {"keychron-light": "http://example.com"},

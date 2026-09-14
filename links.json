@@ -1,10 +1,34 @@
 {
-  "clicks-n-clacks-dark": "https://clicksnclacks.com",
-  "clicks-n-clacks-light": "https://clicksnclacks.com",
-  "delphi-day": "https://delphi.tools",
-  "delphi-night": "https://delphi.tools",
-  "take-off-dark": "https://apps.apple.com/gb/app/takeoff-simplified-flights/id6763347742",
-  "take-off-light": "https://apps.apple.com/gb/app/takeoff-simplified-flights/id6763347742",
-  "threadify-dark": "https://threadify.app",
-  "threadify-light": "https://threadify.app"
+  "clicks-n-clacks-dark": {
+    "url": "https://clicksnclacks.com",
+    "description": "A weekly newsletter about good links and good keyboards."
+  },
+  "clicks-n-clacks-light": {
+    "url": "https://clicksnclacks.com",
+    "description": "A weekly newsletter about good links and good keyboards."
+  },
+  "delphi-day": {
+    "url": "https://delphi.tools",
+    "description": "Small, low-stakes browser tools for colour, images and video. All open source."
+  },
+  "delphi-night": {
+    "url": "https://delphi.tools",
+    "description": "Small, low-stakes browser tools for colour, images and video. All open source."
+  },
+  "take-off-dark": {
+    "url": "https://apps.apple.com/gb/app/takeoff-simplified-flights/id6763347742",
+    "description": "A flight tracker with no ads and no account."
+  },
+  "take-off-light": {
+    "url": "https://apps.apple.com/gb/app/takeoff-simplified-flights/id6763347742",
+    "description": "A flight tracker with no ads and no account."
+  },
+  "threadify-dark": {
+    "url": "https://threadify.app",
+    "description": "Schedules your posts for Threads, X and LinkedIn from one place."
+  },
+  "threadify-light": {
+    "url": "https://threadify.app",
+    "description": "Schedules your posts for Threads, X and LinkedIn from one place."
+  }
 }
