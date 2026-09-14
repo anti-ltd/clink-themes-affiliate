@@ -12,7 +12,7 @@ Partner themes for Clink. This repository is included by default and cannot be r
 
 **Clicks 'n Clacks Light** and **Clicks 'n Clacks Dark** are the fifth affiliate: 3D Mechanical caps with sloped walls on a raised base, in Space Mono's stand-in — the site's own face. The light theme is `F3EDD5` cream keycaps on an `A89984` taupe case with `0C0C0C` legends; the dark theme is the `3E3633` dark brown the affiliate asked for, case and caps, with cream legends. Both wear accent keycaps drawn from the ramp sampled off the brand icon — `F50F24` Shift, `FC6906` Backspace, `F5DC33` 123, `86DC36` globe and `14A3FE` Return — with black legends throughout, the way the wordmark sets black type on colour.
 
-**Quiche Industries Day** and **Quiche Industries Night** are the sixth affiliate: Liquid Glass, in Avenir — the closest face iOS ships to their DM Sans. Quiche Browser is soft and translucent, so the keyboard refracts rather than sits on top of it: Clear glass over a barely tinted `F5F5F5` deck by day, Regular over `111111` by night. Their palette is greyscale by design, so the themes are too, with `777777` the only thing that ever lights up.
+**Quiche Industries Day** and **Quiche Industries Night** are the sixth affiliate: Liquid Glass, in Avenir — the closest face iOS ships to their DM Sans. Quiche Browser is soft and translucent, so the keyboard refracts rather than sits on top of it: Clear glass over a barely tinted `F5F5F5` deck by day, Regular over `111111` by night. Their palette is greyscale by design, so the themes are too, with `111111` — their heading and link colour, not the `777777` of their body copy — the only thing that ever lights up.
 
 ## Permission
 
