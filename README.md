@@ -1,20 +1,106 @@
-# Clink affiliate themes
+<p align="center">
+  <img src="README-assets/clink-icon.png" width="96" alt="Clink app icon">
+</p>
 
-Partner themes for Clink. This repository is included by default and cannot be removed from the app. **Affiliate** appears immediately after **Official** in the theme editor. Downloads and selection are free; affiliate themes cannot be edited, renamed, duplicated, or exported in the app.
+<h1 align="center">Clink themes — affiliate</h1>
 
-**Takeoff Light** and **Takeoff Dark** are the first affiliate themes (ids `take-off-*`, from before the affiliate corrected the spelling): one electronic-paper keyboard on a panel and on an inverted panel, both monospaced and both printed in the affiliate's blue (`0056F7`). The light theme is mint-white paper (`F4FFFB`) with the blue filtered into a muted navy pigment for the legends, frames, grain and suggestion bar. The dark theme is the same sheet inverted — the material bottoms a panel out near 12%, never true black — with the blue printed as a pale periwinkle pigment instead. A light panel holds only two grey rungs, so each theme draws its function keys with whichever colour lands them on the other one: the blue on the light panel, the mint-white on the dark. Letters and the space bar keep the ground's own rung. The manifest is built from `Themes/` and is no longer empty.
+<p align="center">Partner keyboard themes for Clink.</p>
 
-**ThreadFlow Dark** and **ThreadFlow Light** are the second affiliate: translucent mechanical caps over visible switches, monospaced throughout. The dark theme is smoked caps (`1D1D1F`) on a near-black deck (`0C0C0D`) with primary-text legends (`F6F4EF`) and secondary (`C7C4BD`) on the function keys; the light theme swaps those four neutrals' roles, so the two text tones become the deck and the caps and the two surface tones become the legends. The Switches renderer colours each key's exposed switch assembly from the resolved lit colour, then the key colour, then the accent — so both themes paint the character keys with their own cap colour to keep those switches neutral, leaving the brand accent (`E2891F`) on the controls and the hover amber (`F0983A`) on a lit Shift or Return.
+Themes change the keyboard's colours, materials, type treatment, and gradients. They are ordinary JSON data, so you can read every setting before publishing a theme. These themes use each affiliate's name and colours with their permission.
 
-**Delphi Day** and **Delphi Night** are the third affiliate: Classic keys in monospaced semibold — cream over sage with dark-green legends, and its night sibling in near-black with pale legends — each with the number row painted in the brand colour through Canvas.
+## Official Clink repositories
 
-**Threadify Light** and **Threadify Dark** are the fourth affiliate: flat Solid keys in the system face — the brand's UI is flat, and a sculpted material glazes a saturated red rather than holding it — built from the brand's own CSS tokens — `0A0A0A` ground, `171717` surface, `FAFAFA` and `737373` type, `DC2626` red and `F87171` for its hover step. The red is placed where the site places it: Return is the primary button, solid `DC2626` with white type; the function keys take `2A1010`, the red-tinted dark surface the app uses for a selected cell; and Backspace flashes the brand red rather than the system's. The keys carry no outline at all: their buttons have none, and a key is a button — the light theme separates its white caps with an `E5E5E5` deck rather than drawing an edge around each one. The light theme reads the same ramp from the other end. Only the dark theme carries the site's glow as a background gradient, stop for stop; the brand defines no light equivalent, so `FEF2F2` and the lighter hairline alpha are the pair's only derived values.
+[Language packs](https://github.com/anti-ltd/clink-language-packs) · [Layouts](https://github.com/anti-ltd/clink-layouts) · [Profiles](https://github.com/anti-ltd/clink-profiles) · [Themes](https://github.com/anti-ltd/clink-themes) · [Panels](https://github.com/anti-ltd/clink-panels) · [Actions](https://github.com/anti-ltd/clink-actions) · [Fonts](https://github.com/anti-ltd/clink-fonts) · [Sounds](https://github.com/anti-ltd/clink-sounds)
 
-**Clicks 'n Clacks Light** and **Clicks 'n Clacks Dark** are the fifth affiliate: 3D Mechanical caps with sloped walls on a raised base, in Space Mono's stand-in — the site's own face. The light theme is `F3EDD5` cream keycaps on an `A89984` taupe case with `0C0C0C` legends; the dark theme is the `3E3633` dark brown the affiliate asked for, case and caps, with cream legends. Both wear accent keycaps drawn from the ramp sampled off the brand icon — `F50F24` Shift, `FC6906` Backspace, `F5DC33` 123, `86DC36` globe and `14A3FE` Return — with black legends throughout, the way the wordmark sets black type on colour.
+<!-- theme-gallery:start -->
+## Included themes
 
-**Quiche Industries Day** and **Quiche Industries Night** are the sixth affiliate: Liquid Glass, in Avenir — the closest face iOS ships to their DM Sans. Quiche Browser is soft and translucent, so the keyboard refracts rather than sits on top of it: Clear glass over a barely tinted `F5F5F5` deck by day, Regular over `111111` by night. Their palette is greyscale by design, so the themes are too, and the only thing that ever lights up is the one grey their own UI emphasises with: `111111` by day, their heading and link color, and `AAAAAA` by night, because emphasis lifts in a dark interface instead of darkening.
+14 keyboard themes. Select a name to open its theme file, or a preview to see it at full size.
 
-**Walley Light** and **Walley Dark** are the seventh affiliate: Slab keys — broad bevel, satin face — in Futura, picked to echo the geometry of their W. The lime `CDDC3A` and the green `5CB760` are sampled from the app icon — from the dense middle of each gradient, not the lit edge a single pixel lands on, and they are the only colors on the board: Return wears the lime, Shift lights to the green, everything else is neutral. The icon's own ground is `000000`, which the dark theme uses as its deck; the light theme's `E7E8E0` and both themes' near-black/near-white legends are derived, since the brand is dark-only.
+### Solid
+
+| | |
+| --- | --- |
+| <a href="Themes/threadify-dark.clinktheme"><strong>Threadify Dark</strong></a><br><a href="README-assets/previews/threadify-dark.png"><img src="README-assets/previews/threadify-dark.png" width="400" alt="Threadify Dark keyboard preview"></a> | <a href="Themes/threadify-light.clinktheme"><strong>Threadify Light</strong></a><br><a href="README-assets/previews/threadify-light.png"><img src="README-assets/previews/threadify-light.png" width="400" alt="Threadify Light keyboard preview"></a> |
+
+### 3D
+
+| | |
+| --- | --- |
+| <a href="Themes/clicks-n-clacks-dark.clinktheme"><strong>Clicks &#x27;n Clacks Dark</strong></a><br><a href="README-assets/previews/clicks-n-clacks-dark.png"><img src="README-assets/previews/clicks-n-clacks-dark.png" width="400" alt="Clicks &#x27;n Clacks Dark keyboard preview"></a> | <a href="Themes/clicks-n-clacks-light.clinktheme"><strong>Clicks &#x27;n Clacks Light</strong></a><br><a href="README-assets/previews/clicks-n-clacks-light.png"><img src="README-assets/previews/clicks-n-clacks-light.png" width="400" alt="Clicks &#x27;n Clacks Light keyboard preview"></a> |
+| <a href="Themes/threadflow.clinktheme"><strong>ThreadFlow Dark</strong></a><br><a href="README-assets/previews/threadflow.png"><img src="README-assets/previews/threadflow.png" width="400" alt="ThreadFlow Dark keyboard preview"></a> | <a href="Themes/threadflow-light.clinktheme"><strong>ThreadFlow Light</strong></a><br><a href="README-assets/previews/threadflow-light.png"><img src="README-assets/previews/threadflow-light.png" width="400" alt="ThreadFlow Light keyboard preview"></a> |
+
+### Liquid Glass
+
+| | |
+| --- | --- |
+| <a href="Themes/quiche-industries-day.clinktheme"><strong>Quiche Industries Day</strong></a><br><a href="README-assets/previews/quiche-industries-day.png"><img src="README-assets/previews/quiche-industries-day.png" width="400" alt="Quiche Industries Day keyboard preview"></a> | <a href="Themes/quiche-industries-night.clinktheme"><strong>Quiche Industries Night</strong></a><br><a href="README-assets/previews/quiche-industries-night.png"><img src="README-assets/previews/quiche-industries-night.png" width="400" alt="Quiche Industries Night keyboard preview"></a> |
+
+### Classic
+
+| | |
+| --- | --- |
+| <a href="Themes/delphi-day.clinktheme"><strong>Delphi Day</strong></a><br><a href="README-assets/previews/delphi-day.png"><img src="README-assets/previews/delphi-day.png" width="400" alt="Delphi Day keyboard preview"></a> | <a href="Themes/delphi-night.clinktheme"><strong>Delphi Night</strong></a><br><a href="README-assets/previews/delphi-night.png"><img src="README-assets/previews/delphi-night.png" width="400" alt="Delphi Night keyboard preview"></a> |
+
+### Electronic Paper
+
+| | |
+| --- | --- |
+| <a href="Themes/take-off-dark.clinktheme"><strong>Takeoff Dark</strong></a><br><a href="README-assets/previews/take-off-dark.png"><img src="README-assets/previews/take-off-dark.png" width="400" alt="Takeoff Dark keyboard preview"></a> | <a href="Themes/take-off-light.clinktheme"><strong>Takeoff Light</strong></a><br><a href="README-assets/previews/take-off-light.png"><img src="README-assets/previews/take-off-light.png" width="400" alt="Takeoff Light keyboard preview"></a> |
+
+### Slab
+
+| | |
+| --- | --- |
+| <a href="Themes/walley-dark.clinktheme"><strong>Walley Dark</strong></a><br><a href="README-assets/previews/walley-dark.png"><img src="README-assets/previews/walley-dark.png" width="400" alt="Walley Dark keyboard preview"></a> | <a href="Themes/walley-light.clinktheme"><strong>Walley Light</strong></a><br><a href="README-assets/previews/walley-light.png"><img src="README-assets/previews/walley-light.png" width="400" alt="Walley Light keyboard preview"></a> |
+
+
+The complete collection is published under [`Themes/`](Themes). The generated [`manifest.json`](manifest.json) describes every release asset.
+
+<!-- theme-gallery:end -->
+
+## Use an affiliate theme
+
+This repository is included in Clink by default. Open **Customize → Look**, choose **Affiliate** immediately after **Official**, and download a theme. Downloads and selection are free, and downloaded themes remain available offline.
+
+Affiliate themes cannot be edited, renamed, duplicated, or exported in the app. The Affiliate repository cannot be removed. Select a theme's ⓘ to read about the affiliate and follow its website link.
+
+## Make your first affiliate theme
+
+1. Obtain the affiliate's written permission to use its name and material.
+2. Create a theme in Clink and choose **Export** from the theme menu to save a `.clinktheme` file.
+3. Put the file in [`Themes/`](Themes), with a permanent lowercase `id` matching its filename and a clear visible `name`.
+4. Do not include `backgroundImageID` or `keyImageID`. Repository themes can contain colours, gradients, materials, and fonts, but not image files.
+5. Add the approved affiliate's website and description to [`links.json`](links.json), if applicable.
+6. Run these commands:
+
+   ```sh
+   python3 -m unittest discover -s tests
+   python3 tools/build-manifest.py
+   python3 -m json.tool manifest.json >/dev/null
+   ```
+
+7. Inspect the theme in Clink before publishing. Push approved changes to `main` to publish a versioned release automatically.
+
+Do not add placeholder or sample themes. See [design notes](DESIGN.md) for the existing affiliates' palettes, materials, and typography.
+
+## Make a theme with an AI agent
+
+This repository includes [`PROMPT.md`](PROMPT.md), a brief for an AI coding agent. Once the affiliate is approved, open the repository in your agent and say:
+
+```text
+Read PROMPT.md and create a theme for [approved affiliate and visual direction].
+```
+
+Review the resulting JSON, attribution, and appearance in Clink before publishing. The repository license’s third-party terms apply to separately licensed content.
+
+## What Clink verifies
+
+Clink accepts only public HTTPS GitHub release manifests. Each theme must come from that repository's release, be a `.clinktheme` JSON file no larger than 128 KB, and match the SHA-256 hash and byte count in the manifest.
+
+Clink downloads each file into a temporary directory, verifies its checksum and safe data-only structure, and only then installs it. Themes cannot contain photos or executable code.
+
+Adding a repository is a trust decision. Only add repositories whose release contents you trust.
 
 ## Permission
 
@@ -26,21 +112,21 @@ Every theme here uses its affiliate's name, and in most cases their colors, **wi
 
 In the app an ⓘ on the theme's catalog tile opens a card naming the publisher, showing the description and offering one button to the site. The tap itself opens nothing. Write the description as the affiliate would say it out loud.
 
-## Structure and publishing
+## Publishing is automatic
 
-Like the official and unofficial repositories, theme JSON belongs in `Themes/`, the catalog is generated by `tools/build-manifest.py`, and `.github/workflows/release.yml` publishes GitHub release assets automatically on `main` (or manually through Actions).
+Keep `Themes/`, `tools/`, `tests/`, and `.github/workflows/` in your fork. Add or update an approved theme, regenerate the manifest, and push to `main`. GitHub Actions runs the manifest tests, builds the manifest, and publishes a versioned release. You can also run the workflow manually through Actions.
 
-Run:
+Each distinct asset set receives a permanent content-derived release tag. Published assets and previous releases are retained so cached manifests continue to verify. Clink discovers updates through the latest release's `manifest.json`. Do not delete older releases while clients may still have their manifests.
+
+Local manifest builds default to `anti-ltd/clink-themes-affiliate`. For a fork, set `GITHUB_REPOSITORY=owner/repository` when running the builder. GitHub Actions uses the actual repository name automatically.
+
+## Refresh the previews
+
+Run `ThemeRepositoryGalleryTests` in the Clink app's simulator test host and export its xcresult attachments, then run:
 
 ```sh
-python3 -m unittest discover -s tests
-python3 tools/build-manifest.py
+python3 -m pip install Pillow
+python3 tools/update-readme-gallery.py /path/to/exported-attachments
 ```
 
-The workflow publishes the manifest even when there are no themes. Each distinct asset set receives a permanent content-derived release tag; existing release assets are retained so cached manifests continue to verify. The latest-release manifest URL is the app's discovery endpoint.
-
-## Adding an approved affiliate theme
-
-Add a `.clinktheme` JSON file with a permanent lowercase ID matching its filename and a visible name. Themes must be data-only, under 128 KB, without photos, artwork image references, or executable content. Use the same Theme schema as `clink-themes`. Review the affiliate's rights and attribution before including their material. The repository license's third-party terms apply to separately licensed content.
-
-Run the checks above and inspect the theme in Clink before publishing. Do not add placeholder or sample themes to `Themes/`.
+The gallery uses Clink's production keyboard renderer. [`README-assets/preview-manifest.json`](README-assets/preview-manifest.json) records the theme and preview checksums for each capture.

@@ -1,0 +1,58 @@
+{
+  "clicks-n-clacks-dark": {
+    "themeSHA256": "a3d2c282d15f780db06c4babb0d1e47bc2b6a5d28e3bef3e2c3da6cc1fbe53df",
+    "previewSHA256": "4c7450a9bff615ce488c9c231da477be9adc5fc006ba727d133ee1663c9312aa"
+  },
+  "clicks-n-clacks-light": {
+    "themeSHA256": "1ec20b74b0ecd183d866311e4ac9dfd707f73fc12d03bdcdc90abc5e5729395c",
+    "previewSHA256": "c9dd115f968ac5cccfdd94ccca5bebfcb23e3a669e00b32fdac3d74f50566f3f"
+  },
+  "delphi-day": {
+    "themeSHA256": "bb688076305ffd87ca818ce8a705246699607772ab525db096d0a79c19b26067",
+    "previewSHA256": "26cdc47f9fb975d91f13a38140be7c456c0db9087c7b4a4554f6bf7c87f25cf6"
+  },
+  "delphi-night": {
+    "themeSHA256": "20b9121e4b6d62413d1203427a82f4e5fbcba22fe54eabb258c5887e2b715d6f",
+    "previewSHA256": "038329f9fbd9fa9622b2d99296a543f0d135f1c43ac7ca331d82680183fc0125"
+  },
+  "quiche-industries-day": {
+    "themeSHA256": "143f83d514770f956bbfb466a39a1d5435ac3c1537bfa893c08bb7e57d3624d2",
+    "previewSHA256": "264eb980c3d6aecb3711ab85dc08e94bdd5cca288838995df047bd2049f33bc5"
+  },
+  "quiche-industries-night": {
+    "themeSHA256": "ec7fafe826d643df1e419581797f7605cc3d113471c0f29a0584fba031f859f4",
+    "previewSHA256": "6dfabd8fb12f7292cc92ae8d33ab47879ee056eed72275ef0c180676b119af75"
+  },
+  "take-off-dark": {
+    "themeSHA256": "1cecf1f33132fc35dc44d50a23ac3643f51a19d3a17ed84f0cee319d17baae8c",
+    "previewSHA256": "87efcf0263b1814d55247e0a7383e138ff731badd58b9f02bac49dca11b81b02"
+  },
+  "take-off-light": {
+    "themeSHA256": "a718c4767a9eb325b2a6d823d851c2c0026ddbcc9409adbeb800bcb4742c1f80",
+    "previewSHA256": "42fb04b88701390cc87cf94e4f3052421ac68ad9473676f8931ee13fae3c6313"
+  },
+  "threadflow": {
+    "themeSHA256": "f642c68d887326bdc0078f639b23e9c7688e869743c1da1febe677ed1e4f5181",
+    "previewSHA256": "04f2d7d445da3f3a6da60bf16cec3d2be4958e65e3b3d8c4178043c18501eec3"
+  },
+  "threadflow-light": {
+    "themeSHA256": "19dd20f39cb9110b2a78a720ae03a07aeab351853d21df821ca578b12b0fdde1",
+    "previewSHA256": "9b5fbbaadcea101bb3324020184638a6a07f3964a586e099e7fd99c19383533a"
+  },
+  "threadify-dark": {
+    "themeSHA256": "18675265c855af2b0d434809c2970a7b1aa2076075785cb1cb9bbd7a18bbb9f2",
+    "previewSHA256": "1d5f27706edaf46379f2992cdbe9021b85445b137b9478b15029b2b3a511f9ad"
+  },
+  "threadify-light": {
+    "themeSHA256": "52b3c3fb7213aaf23a780df7a45f973634d7c3ae8c6e0f7276023387b497bf08",
+    "previewSHA256": "5c95a74cf5cdf922e24f6ce989575db229b1518fa754723fa0f5a5a171f5ed63"
+  },
+  "walley-dark": {
+    "themeSHA256": "a403da7613536985ca135beafae4911d464f3a97d5786454f2d06541e299e142",
+    "previewSHA256": "7665609679f6df050efeaa153f8322d83af5e584d09c497d5e65db8f07452bad"
+  },
+  "walley-light": {
+    "themeSHA256": "a666cbded477c5fbec9253789b4321300819947249b3b783458d340dc49b7446",
+    "previewSHA256": "7feb03c6d6f28fab1e8ba553f8d283f2018060697c73aa5a33b8fa9513990b73"
+  }
+}
