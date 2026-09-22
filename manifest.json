@@ -1,10 +1,10 @@
 {
-  "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+  "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
   "themes": [
     {
       "id": "clicks-n-clacks-dark",
       "name": "Clicks 'n Clacks Dark",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -254,7 +254,7 @@
       },
       "asset": {
         "path": "clicks-n-clacks-dark.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/clicks-n-clacks-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/clicks-n-clacks-dark.clinktheme",
         "sha256": "a3d2c282d15f780db06c4babb0d1e47bc2b6a5d28e3bef3e2c3da6cc1fbe53df",
         "byteCount": 5251
       },
@@ -264,7 +264,7 @@
     {
       "id": "clicks-n-clacks-light",
       "name": "Clicks 'n Clacks Light",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -514,7 +514,7 @@
       },
       "asset": {
         "path": "clicks-n-clacks-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/clicks-n-clacks-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/clicks-n-clacks-light.clinktheme",
         "sha256": "1ec20b74b0ecd183d866311e4ac9dfd707f73fc12d03bdcdc90abc5e5729395c",
         "byteCount": 5349
       },
@@ -524,7 +524,7 @@
     {
       "id": "delphi-day",
       "name": "Delphi Day",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -783,7 +783,7 @@
       },
       "asset": {
         "path": "delphi-day.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/delphi-day.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/delphi-day.clinktheme",
         "sha256": "bb688076305ffd87ca818ce8a705246699607772ab525db096d0a79c19b26067",
         "byteCount": 5396
       },
@@ -793,7 +793,7 @@
     {
       "id": "delphi-night",
       "name": "Delphi Night",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -1052,7 +1052,7 @@
       },
       "asset": {
         "path": "delphi-night.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/delphi-night.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/delphi-night.clinktheme",
         "sha256": "20b9121e4b6d62413d1203427a82f4e5fbcba22fe54eabb258c5887e2b715d6f",
         "byteCount": 5406
       },
@@ -1062,7 +1062,7 @@
     {
       "id": "nuphy-air75-he",
       "name": "NuPhy Air75 HE",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -1274,7 +1274,7 @@
       },
       "asset": {
         "path": "nuphy-air75-he.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-air75-he.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/nuphy-air75-he.clinktheme",
         "sha256": "2b27bf76b650d427fdaa607b22a902f3e518b8f182ae24793056d2bf838eaddf",
         "byteCount": 4361
       },
@@ -1284,7 +1284,7 @@
     {
       "id": "nuphy-air75-nebula-dark",
       "name": "NuPhy Air75 Nebula Dark",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -1496,7 +1496,7 @@
       },
       "asset": {
         "path": "nuphy-air75-nebula-dark.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-air75-nebula-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/nuphy-air75-nebula-dark.clinktheme",
         "sha256": "70a8f5b9ae34842ce8253f122c917db83f55e19eb041e31a02a7c33057740a1f",
         "byteCount": 4497
       },
@@ -1506,7 +1506,7 @@
     {
       "id": "nuphy-air75-nova-white",
       "name": "NuPhy Air75 Nova White",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -1718,7 +1718,7 @@
       },
       "asset": {
         "path": "nuphy-air75-nova-white.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-air75-nova-white.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/nuphy-air75-nova-white.clinktheme",
         "sha256": "a861a353ddd056d29e00271f791c733a0a638bc8cf16bcc22ca1e923a1ac7f47",
         "byteCount": 4458
       },
@@ -1728,7 +1728,7 @@
     {
       "id": "nuphy-bh65",
       "name": "NuPhy BH65",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -1952,7 +1952,7 @@
       },
       "asset": {
         "path": "nuphy-bh65.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-bh65.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/nuphy-bh65.clinktheme",
         "sha256": "f945c0b1fbdeae80595fc03bd8694fbf557b49eba2506992f2a1f34aa5c06ae6",
         "byteCount": 4727
       },
@@ -1962,7 +1962,7 @@
     {
       "id": "nuphy-dark",
       "name": "NuPhy Dark",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -2176,7 +2176,7 @@
       },
       "asset": {
         "path": "nuphy-dark.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/nuphy-dark.clinktheme",
         "sha256": "3825c807588b9e4a86382c7b39875a0ca4b934a88d4ee3be3990ac55c727013d",
         "byteCount": 4240
       },
@@ -2186,7 +2186,7 @@
     {
       "id": "nuphy-field75-electro",
       "name": "NuPhy Field75 Electro",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -2386,7 +2386,7 @@
       },
       "asset": {
         "path": "nuphy-field75-electro.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-field75-electro.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/nuphy-field75-electro.clinktheme",
         "sha256": "17f036eeed072fb810e9fddaff6578db0cd12da90b61a04fdf6d9a6dd83ef879",
         "byteCount": 4224
       },
@@ -2396,7 +2396,7 @@
     {
       "id": "nuphy-field75-he",
       "name": "NuPhy Field75 HE",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -2622,7 +2622,7 @@
       },
       "asset": {
         "path": "nuphy-field75-he.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-field75-he.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/nuphy-field75-he.clinktheme",
         "sha256": "6da1c833ced88f67edce33dae2c7019aade574229191ca0e0b2497ec6e0913b5",
         "byteCount": 4432
       },
@@ -2632,7 +2632,7 @@
     {
       "id": "nuphy-field75-noether",
       "name": "NuPhy Field75 Noether",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -2846,7 +2846,7 @@
       },
       "asset": {
         "path": "nuphy-field75-noether.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-field75-noether.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/nuphy-field75-noether.clinktheme",
         "sha256": "97514df9886fd73302f6ebc407187ffb0e9afb914ee52b6a41a86f64e863ea06",
         "byteCount": 4512
       },
@@ -2856,7 +2856,7 @@
     {
       "id": "nuphy-gem80-cosmic-mocha",
       "name": "NuPhy Gem80 Cosmic Mocha",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -3056,7 +3056,7 @@
       },
       "asset": {
         "path": "nuphy-gem80-cosmic-mocha.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-gem80-cosmic-mocha.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/nuphy-gem80-cosmic-mocha.clinktheme",
         "sha256": "3505e9420c8c0c4fe33fabb6d1213191a854543e43370dc4f7de9d4bec2f05c8",
         "byteCount": 4200
       },
@@ -3066,7 +3066,7 @@
     {
       "id": "nuphy-gem80-mystic-indigo",
       "name": "NuPhy Gem80 Mystic Indigo",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -3299,7 +3299,7 @@
       },
       "asset": {
         "path": "nuphy-gem80-mystic-indigo.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-gem80-mystic-indigo.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/nuphy-gem80-mystic-indigo.clinktheme",
         "sha256": "26e15ffbc7dfb5fec7cae0060917e7e223cfe05352636fc9116407786fc4ab1f",
         "byteCount": 4661
       },
@@ -3309,7 +3309,7 @@
     {
       "id": "nuphy-halo-blue-lagoon",
       "name": "NuPhy Halo Blue Lagoon",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -3506,7 +3506,7 @@
       },
       "asset": {
         "path": "nuphy-halo-blue-lagoon.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-halo-blue-lagoon.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/nuphy-halo-blue-lagoon.clinktheme",
         "sha256": "d9b218893148cef4320c33e1d29f6a4873fb93f8fc4c0f385333487bbea8d211",
         "byteCount": 4116
       },
@@ -3516,7 +3516,7 @@
     {
       "id": "nuphy-halo-mojito",
       "name": "NuPhy Halo Mojito",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -3689,7 +3689,7 @@
       },
       "asset": {
         "path": "nuphy-halo-mojito.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-halo-mojito.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/nuphy-halo-mojito.clinktheme",
         "sha256": "1fe393b325e4c74aff187d8fd49dc7f3ecfee83d83eff4fbcad30c724bd475a2",
         "byteCount": 3529
       },
@@ -3699,7 +3699,7 @@
     {
       "id": "nuphy-kick75",
       "name": "NuPhy Kick75",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -3925,7 +3925,7 @@
       },
       "asset": {
         "path": "nuphy-kick75.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-kick75.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/nuphy-kick75.clinktheme",
         "sha256": "6e111d2890c7d8a70a3d19c594a27d16262dde951790407e3e4499f3568f47a2",
         "byteCount": 4643
       },
@@ -3935,7 +3935,7 @@
     {
       "id": "nuphy-light",
       "name": "NuPhy Light",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -4149,7 +4149,7 @@
       },
       "asset": {
         "path": "nuphy-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/nuphy-light.clinktheme",
         "sha256": "ee15312773b0ce2ded78c3c1d63de5af95a4526479409996845be42fd1ff177b",
         "byteCount": 4225
       },
@@ -4159,7 +4159,7 @@
     {
       "id": "nuphy-node100-light-pink",
       "name": "NuPhy Node100 Light Pink",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -4371,7 +4371,7 @@
       },
       "asset": {
         "path": "nuphy-node100-light-pink.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-node100-light-pink.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/nuphy-node100-light-pink.clinktheme",
         "sha256": "89fabee0fe930794b85bb6ba0122a58514868bf9581585e4750f32bac4050fed",
         "byteCount": 4443
       },
@@ -4381,7 +4381,7 @@
     {
       "id": "nuphy-node75-ink-gray",
       "name": "NuPhy Node75 Ink Gray",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -4593,7 +4593,7 @@
       },
       "asset": {
         "path": "nuphy-node75-ink-gray.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-node75-ink-gray.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/nuphy-node75-ink-gray.clinktheme",
         "sha256": "6ea29486d8661c2b7f30634a55f572cd7ba21efa60d319c19299ffcdd115c6ca",
         "byteCount": 4487
       },
@@ -4603,7 +4603,7 @@
     {
       "id": "nuphy-node75-lunar-white",
       "name": "NuPhy Node75 Lunar White",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -4815,7 +4815,7 @@
       },
       "asset": {
         "path": "nuphy-node75-lunar-white.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-node75-lunar-white.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/nuphy-node75-lunar-white.clinktheme",
         "sha256": "9d77af8bb6a61a9be03e4f73761d1524a61c2e9250467a6a91f9abb142e67c34",
         "byteCount": 4420
       },
@@ -4824,8 +4824,8 @@
     },
     {
       "id": "quiche-industries-day",
-      "name": "Quiche Industries Day",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "name": "Quiche Industries",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -4902,7 +4902,7 @@
           "r": 0
         },
         "material": "liquidGlass",
-        "name": "Quiche Industries Day",
+        "name": "Quiche Industries",
         "specialKeyFill": {
           "a": 0.35,
           "b": 0.9176470588235294,
@@ -4924,17 +4924,17 @@
       },
       "asset": {
         "path": "quiche-industries-day.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/quiche-industries-day.clinktheme",
-        "sha256": "143f83d514770f956bbfb466a39a1d5435ac3c1537bfa893c08bb7e57d3624d2",
-        "byteCount": 1687
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/quiche-industries-day.clinktheme",
+        "sha256": "51a9683515474c18c2b5286e94acc7a94d263202b41fd551e11d1177902f09c1",
+        "byteCount": 1605
       },
       "link": "https://quiche.industries",
       "description": "One person making a customisable browser and a read-later app, both named after a pie. No tracking, no telemetry, no signup."
     },
     {
       "id": "quiche-industries-night",
-      "name": "Quiche Industries Night",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "name": "Quiche Industries",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -5011,7 +5011,7 @@
           "r": 1
         },
         "material": "liquidGlass",
-        "name": "Quiche Industries Night",
+        "name": "Quiche Industries",
         "specialKeyFill": {
           "a": 0.2,
           "b": 0.23529411764705882,
@@ -5033,9 +5033,9 @@
       },
       "asset": {
         "path": "quiche-industries-night.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/quiche-industries-night.clinktheme",
-        "sha256": "ec7fafe826d643df1e419581797f7605cc3d113471c0f29a0584fba031f859f4",
-        "byteCount": 1798
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/quiche-industries-night.clinktheme",
+        "sha256": "c6b4029c16a8b450f7850b8ff6cf59e8f63181f52a9d5dc09e5204b7ac5c868a",
+        "byteCount": 1712
       },
       "link": "https://quiche.industries",
       "description": "One person making a customisable browser and a read-later app, both named after a pie. No tracking, no telemetry, no signup."
@@ -5043,7 +5043,7 @@
     {
       "id": "take-off-dark",
       "name": "Takeoff Dark",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -5174,7 +5174,7 @@
       },
       "asset": {
         "path": "take-off-dark.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/take-off-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/take-off-dark.clinktheme",
         "sha256": "1cecf1f33132fc35dc44d50a23ac3643f51a19d3a17ed84f0cee319d17baae8c",
         "byteCount": 2090
       },
@@ -5184,7 +5184,7 @@
     {
       "id": "take-off-light",
       "name": "Takeoff Light",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -5315,7 +5315,7 @@
       },
       "asset": {
         "path": "take-off-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/take-off-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/take-off-light.clinktheme",
         "sha256": "a718c4767a9eb325b2a6d823d851c2c0026ddbcc9409adbeb800bcb4742c1f80",
         "byteCount": 2231
       },
@@ -5325,7 +5325,7 @@
     {
       "id": "threadflow-light",
       "name": "ThreadFlow Light",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -5465,7 +5465,7 @@
       },
       "asset": {
         "path": "threadflow-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/threadflow-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/threadflow-light.clinktheme",
         "sha256": "19dd20f39cb9110b2a78a720ae03a07aeab351853d21df821ca578b12b0fdde1",
         "byteCount": 2632
       }
@@ -5473,7 +5473,7 @@
     {
       "id": "threadflow",
       "name": "ThreadFlow Dark",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -5613,7 +5613,7 @@
       },
       "asset": {
         "path": "threadflow.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/threadflow.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/threadflow.clinktheme",
         "sha256": "f642c68d887326bdc0078f639b23e9c7688e869743c1da1febe677ed1e4f5181",
         "byteCount": 2633
       }
@@ -5621,7 +5621,7 @@
     {
       "id": "threadify-dark",
       "name": "Threadify Dark",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -5822,7 +5822,7 @@
       },
       "asset": {
         "path": "threadify-dark.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/threadify-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/threadify-dark.clinktheme",
         "sha256": "18675265c855af2b0d434809c2970a7b1aa2076075785cb1cb9bbd7a18bbb9f2",
         "byteCount": 3846
       },
@@ -5832,7 +5832,7 @@
     {
       "id": "threadify-light",
       "name": "Threadify Light",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -5991,7 +5991,7 @@
       },
       "asset": {
         "path": "threadify-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/threadify-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/threadify-light.clinktheme",
         "sha256": "52b3c3fb7213aaf23a780df7a45f973634d7c3ae8c6e0f7276023387b497bf08",
         "byteCount": 2937
       },
@@ -6001,7 +6001,7 @@
     {
       "id": "walley-dark",
       "name": "Walley Dark",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -6140,7 +6140,7 @@
       },
       "asset": {
         "path": "walley-dark.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/walley-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/walley-dark.clinktheme",
         "sha256": "a403da7613536985ca135beafae4911d464f3a97d5786454f2d06541e299e142",
         "byteCount": 2610
       },
@@ -6150,7 +6150,7 @@
     {
       "id": "walley-light",
       "name": "Walley Light",
-      "version": "themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766",
+      "version": "themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36",
       "preview": {
         "accent": {
           "a": 1,
@@ -6289,7 +6289,7 @@
       },
       "asset": {
         "path": "walley-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/walley-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-ba8e09176186110d8e5fca9627e545077d6cb8208feb563d63e6969e2d0eaa36/walley-light.clinktheme",
         "sha256": "a666cbded477c5fbec9253789b4321300819947249b3b783458d340dc49b7446",
         "byteCount": 2617
       },

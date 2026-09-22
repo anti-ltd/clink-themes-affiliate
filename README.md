@@ -34,7 +34,7 @@ Themes change the keyboard's colours, materials, type treatment, and gradients. 
 
 | | |
 | --- | --- |
-| <a href="Themes/quiche-industries-day.clinktheme"><strong>Quiche Industries Day</strong></a><br><a href="README-assets/previews/quiche-industries-day.png"><img src="README-assets/previews/quiche-industries-day.png" width="400" alt="Quiche Industries Day keyboard preview"></a> | <a href="Themes/quiche-industries-night.clinktheme"><strong>Quiche Industries Night</strong></a><br><a href="README-assets/previews/quiche-industries-night.png"><img src="README-assets/previews/quiche-industries-night.png" width="400" alt="Quiche Industries Night keyboard preview"></a> |
+| <a href="Themes/quiche-industries-day.clinktheme"><strong>Quiche Industries</strong></a><br><a href="README-assets/previews/quiche-industries-day.png"><img src="README-assets/previews/quiche-industries-day.png" width="400" alt="Quiche Industries keyboard preview"></a> | <a href="Themes/quiche-industries-night.clinktheme"><strong>Quiche Industries</strong></a><br><a href="README-assets/previews/quiche-industries-night.png"><img src="README-assets/previews/quiche-industries-night.png" width="400" alt="Quiche Industries keyboard preview"></a> |
 
 ### Classic
 

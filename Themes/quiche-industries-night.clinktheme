@@ -1,96 +1,96 @@
 {
-  "accent" : {
-    "a" : 1,
-    "b" : 0.5764705882352941,
-    "g" : 0.5568627450980392,
-    "r" : 0.5568627450980392
+  "accent": {
+    "a": 1,
+    "b": 0.5764705882352941,
+    "g": 0.5568627450980392,
+    "r": 0.5568627450980392
   },
-  "background" : {
-    "a" : 0.65,
-    "b" : 0.07058823529411765,
-    "g" : 0.07058823529411765,
-    "r" : 0.07058823529411765
+  "background": {
+    "a": 0.65,
+    "b": 0.07058823529411765,
+    "g": 0.07058823529411765,
+    "r": 0.07058823529411765
   },
-  "glassTintStrength" : 0.5,
-  "glassVariant" : "clear",
-  "id" : "quiche-industries-night",
-  "isDark" : true,
-  "keyFill" : {
-    "a" : 0.30,
-    "b" : 0.1803921568627451,
-    "g" : 0.17254901960784313,
-    "r" : 0.17254901960784313
+  "glassTintStrength": 0.5,
+  "glassVariant": "clear",
+  "id": "quiche-industries-night",
+  "isDark": true,
+  "keyFill": {
+    "a": 0.3,
+    "b": 0.1803921568627451,
+    "g": 0.17254901960784313,
+    "r": 0.17254901960784313
   },
-  "keyFontDesign" : "avenir",
-  "keyFontWeight" : "medium",
-  "keyInnerShadow" : {
-    "color" : {
-      "a" : 0.35,
-      "b" : 0,
-      "g" : 0,
-      "r" : 0
+  "keyFontDesign": "avenir",
+  "keyFontWeight": "medium",
+  "keyInnerShadow": {
+    "color": {
+      "a": 0.35,
+      "b": 0,
+      "g": 0,
+      "r": 0
     },
-    "isOn" : false,
-    "radius" : 4,
-    "x" : 0,
-    "y" : 2
+    "isOn": false,
+    "radius": 4,
+    "x": 0,
+    "y": 2
   },
-  "keyInnerStroke" : {
-    "color" : {
-      "a" : 0.6,
-      "b" : 0.34509803921568627,
-      "g" : 0.32941176470588235,
-      "r" : 0.32941176470588235
+  "keyInnerStroke": {
+    "color": {
+      "a": 0.6,
+      "b": 0.34509803921568627,
+      "g": 0.32941176470588235,
+      "r": 0.32941176470588235
     },
-    "style" : "none",
-    "width" : 1
+    "style": "none",
+    "width": 1
   },
-  "keyOuterStroke" : {
-    "color" : {
-      "a" : 0.6,
-      "b" : 0.34509803921568627,
-      "g" : 0.32941176470588235,
-      "r" : 0.32941176470588235
+  "keyOuterStroke": {
+    "color": {
+      "a": 0.6,
+      "b": 0.34509803921568627,
+      "g": 0.32941176470588235,
+      "r": 0.32941176470588235
     },
-    "style" : "none",
-    "width" : 1
+    "style": "none",
+    "width": 1
   },
-  "keyShadow" : {
-    "color" : {
-      "a" : 0.35,
-      "b" : 0,
-      "g" : 0,
-      "r" : 0
+  "keyShadow": {
+    "color": {
+      "a": 0.35,
+      "b": 0,
+      "g": 0,
+      "r": 0
     },
-    "isOn" : false,
-    "radius" : 4,
-    "x" : 0,
-    "y" : 2
+    "isOn": false,
+    "radius": 4,
+    "x": 0,
+    "y": 2
   },
-  "keyText" : {
-    "a" : 1,
-    "b" : 1,
-    "g" : 1,
-    "r" : 1
+  "keyText": {
+    "a": 1,
+    "b": 1,
+    "g": 1,
+    "r": 1
   },
-  "material" : "liquidGlass",
-  "name" : "Quiche Industries Night",
-  "specialKeyFill" : {
-    "a" : 0.20,
-    "b" : 0.23529411764705882,
-    "g" : 0.22745098039215686,
-    "r" : 0.22745098039215686
+  "material": "liquidGlass",
+  "name": "Quiche Industries",
+  "specialKeyFill": {
+    "a": 0.2,
+    "b": 0.23529411764705882,
+    "g": 0.22745098039215686,
+    "r": 0.22745098039215686
   },
-  "specialKeyText" : {
-    "a" : 1,
-    "b" : 1,
-    "g" : 1,
-    "r" : 1
+  "specialKeyText": {
+    "a": 1,
+    "b": 1,
+    "g": 1,
+    "r": 1
   },
-  "suggestionText" : {
-    "a" : 0.6,
-    "b" : 0.9607843137254902,
-    "g" : 0.9215686274509803,
-    "r" : 0.9215686274509803
+  "suggestionText": {
+    "a": 0.6,
+    "b": 0.9607843137254902,
+    "g": 0.9215686274509803,
+    "r": 0.9215686274509803
   }
 }
