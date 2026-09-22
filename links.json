@@ -1,11 +1,11 @@
 {
   "clicks-n-clacks-dark": {
     "url": "https://clicksnclacks.com",
-    "description": "Weekly newsletter filled with awesome links (clicks 🔗) and cool keyboards (clacks ⌨️) — indie app development, tech news, interesting articles, fancy websites, and lots of keebs."
+    "description": "Weekly newsletter filled with awesome links (clicks \ud83d\udd17) and cool keyboards (clacks \u2328\ufe0f) \u2014 indie app development, tech news, interesting articles, fancy websites, and lots of keebs."
   },
   "clicks-n-clacks-light": {
     "url": "https://clicksnclacks.com",
-    "description": "Weekly newsletter filled with awesome links (clicks 🔗) and cool keyboards (clacks ⌨️) — indie app development, tech news, interesting articles, fancy websites, and lots of keebs."
+    "description": "Weekly newsletter filled with awesome links (clicks \ud83d\udd17) and cool keyboards (clacks \u2328\ufe0f) \u2014 indie app development, tech news, interesting articles, fancy websites, and lots of keebs."
   },
   "delphi-day": {
     "url": "https://delphi.tools",
@@ -25,11 +25,11 @@
   },
   "take-off-dark": {
     "url": "https://apps.apple.com/gb/app/takeoff-simplified-flights/id6763347742",
-    "description": "A flight tracker that won’t sell your data. No ads, no accounts, and a simple interface."
+    "description": "A flight tracker that won\u2019t sell your data. No ads, no accounts, and a simple interface."
   },
   "take-off-light": {
     "url": "https://apps.apple.com/gb/app/takeoff-simplified-flights/id6763347742",
-    "description": "A flight tracker that won’t sell your data. No ads, no accounts, and a simple interface."
+    "description": "A flight tracker that won\u2019t sell your data. No ads, no accounts, and a simple interface."
   },
   "threadify-dark": {
     "url": "https://threadify.app",
@@ -46,5 +46,73 @@
   "walley-light": {
     "url": "https://apps.apple.com/gb/app/walley-wallpaper-backgrounds/id6504028503",
     "description": "Walley is a premium wallpaper app crafted for beautiful iPhone setups."
+  },
+  "nuphy-air75-he": {
+    "url": "https://nuphy.com/products/nuphy-air75-he-magnetic-switch-gaming-keyboard",
+    "description": "Inspired by the NuPhy Air75 HE. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
+  },
+  "nuphy-air75-nebula-dark": {
+    "url": "https://nuphy.com/products/nuphy-air75-v3",
+    "description": "Inspired by the NuPhy Air75 V3 Nebula Dark. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
+  },
+  "nuphy-air75-nova-white": {
+    "url": "https://nuphy.com/products/nuphy-air75-v3",
+    "description": "Inspired by the NuPhy Air75 V3 Nova White. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
+  },
+  "nuphy-bh65": {
+    "url": "https://nuphy.com/products/bh65",
+    "description": "Inspired by the NuPhyX BH65. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
+  },
+  "nuphy-dark": {
+    "url": "https://nuphy.com/products/halo75-v2-qmk-via-wireless-custom-mechanical-keyboard",
+    "description": "Inspired by the NuPhy Halo75 V2 Obsidian Black. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
+  },
+  "nuphy-field75-electro": {
+    "url": "https://nuphy.com.au/products/field75-wireless-mechanical-gaming-keyboard",
+    "description": "Inspired by the NuPhy Field75 Electro. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
+  },
+  "nuphy-field75-he": {
+    "url": "https://nuphy.com.au/products/nuphy-field75-he-magnetic-switch-gaming-keyboard",
+    "description": "Inspired by the NuPhy Field75 HE. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
+  },
+  "nuphy-field75-noether": {
+    "url": "https://nuphy.com.au/products/field75-wireless-mechanical-gaming-keyboard",
+    "description": "Inspired by the NuPhy Field75 Noether. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
+  },
+  "nuphy-gem80-cosmic-mocha": {
+    "url": "https://nuphy.com/products/gem80-t",
+    "description": "Inspired by the NuPhy Gem80 Cosmic Mocha. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
+  },
+  "nuphy-gem80-mystic-indigo": {
+    "url": "https://nuphy.com/products/gem80-t",
+    "description": "Inspired by the NuPhy Gem80 Mystic Indigo. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
+  },
+  "nuphy-halo-blue-lagoon": {
+    "url": "https://nuphy.com/products/halo75-v2-qmk-via-wireless-custom-mechanical-keyboard",
+    "description": "Inspired by the NuPhy Halo75 V2 Blue Lagoon. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
+  },
+  "nuphy-halo-mojito": {
+    "url": "https://nuphy.com/products/halo75-v2-qmk-via-wireless-custom-mechanical-keyboard",
+    "description": "Inspired by the NuPhy Halo75 V2 Mojito. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
+  },
+  "nuphy-kick75": {
+    "url": "https://nuphy.com/products/nuphy-kick75",
+    "description": "Inspired by the NuPhy Kick75. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
+  },
+  "nuphy-light": {
+    "url": "https://nuphy.com/products/halo75-v2-qmk-via-wireless-custom-mechanical-keyboard",
+    "description": "Inspired by the NuPhy Halo75 V2 Ionic White. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
+  },
+  "nuphy-node100-light-pink": {
+    "url": "https://nuphy.com.au/products/nuphy-node100-low-profile-wireless-mechanical-keyboard",
+    "description": "Inspired by the NuPhy Node100 Low-profile Light Pink. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
+  },
+  "nuphy-node75-ink-gray": {
+    "url": "https://nuphy.com/products/nuphy-node-series-high-profile",
+    "description": "Inspired by the NuPhy Node75 High-profile Ink Gray. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
+  },
+  "nuphy-node75-lunar-white": {
+    "url": "https://nuphy.com/products/nuphy-node-series-high-profile",
+    "description": "Inspired by the NuPhy Node75 High-profile Lunar White. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
   }
 }

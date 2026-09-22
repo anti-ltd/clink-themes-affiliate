@@ -1277,7 +1277,9 @@
         "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-air75-he.clinktheme",
         "sha256": "2b27bf76b650d427fdaa607b22a902f3e518b8f182ae24793056d2bf838eaddf",
         "byteCount": 4361
-      }
+      },
+      "link": "https://nuphy.com/products/nuphy-air75-he-magnetic-switch-gaming-keyboard",
+      "description": "Inspired by the NuPhy Air75 HE. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
     },
     {
       "id": "nuphy-air75-nebula-dark",
@@ -1497,7 +1499,9 @@
         "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-air75-nebula-dark.clinktheme",
         "sha256": "70a8f5b9ae34842ce8253f122c917db83f55e19eb041e31a02a7c33057740a1f",
         "byteCount": 4497
-      }
+      },
+      "link": "https://nuphy.com/products/nuphy-air75-v3",
+      "description": "Inspired by the NuPhy Air75 V3 Nebula Dark. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
     },
     {
       "id": "nuphy-air75-nova-white",
@@ -1717,7 +1721,9 @@
         "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-air75-nova-white.clinktheme",
         "sha256": "a861a353ddd056d29e00271f791c733a0a638bc8cf16bcc22ca1e923a1ac7f47",
         "byteCount": 4458
-      }
+      },
+      "link": "https://nuphy.com/products/nuphy-air75-v3",
+      "description": "Inspired by the NuPhy Air75 V3 Nova White. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
     },
     {
       "id": "nuphy-bh65",
@@ -1949,7 +1955,9 @@
         "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-bh65.clinktheme",
         "sha256": "f945c0b1fbdeae80595fc03bd8694fbf557b49eba2506992f2a1f34aa5c06ae6",
         "byteCount": 4727
-      }
+      },
+      "link": "https://nuphy.com/products/bh65",
+      "description": "Inspired by the NuPhyX BH65. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
     },
     {
       "id": "nuphy-dark",
@@ -2171,7 +2179,9 @@
         "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-dark.clinktheme",
         "sha256": "3825c807588b9e4a86382c7b39875a0ca4b934a88d4ee3be3990ac55c727013d",
         "byteCount": 4240
-      }
+      },
+      "link": "https://nuphy.com/products/halo75-v2-qmk-via-wireless-custom-mechanical-keyboard",
+      "description": "Inspired by the NuPhy Halo75 V2 Obsidian Black. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
     },
     {
       "id": "nuphy-field75-electro",
@@ -2379,7 +2389,9 @@
         "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-field75-electro.clinktheme",
         "sha256": "17f036eeed072fb810e9fddaff6578db0cd12da90b61a04fdf6d9a6dd83ef879",
         "byteCount": 4224
-      }
+      },
+      "link": "https://nuphy.com.au/products/field75-wireless-mechanical-gaming-keyboard",
+      "description": "Inspired by the NuPhy Field75 Electro. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
     },
     {
       "id": "nuphy-field75-he",
@@ -2613,7 +2625,9 @@
         "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-field75-he.clinktheme",
         "sha256": "6da1c833ced88f67edce33dae2c7019aade574229191ca0e0b2497ec6e0913b5",
         "byteCount": 4432
-      }
+      },
+      "link": "https://nuphy.com.au/products/nuphy-field75-he-magnetic-switch-gaming-keyboard",
+      "description": "Inspired by the NuPhy Field75 HE. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
     },
     {
       "id": "nuphy-field75-noether",
@@ -2835,7 +2849,9 @@
         "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-field75-noether.clinktheme",
         "sha256": "97514df9886fd73302f6ebc407187ffb0e9afb914ee52b6a41a86f64e863ea06",
         "byteCount": 4512
-      }
+      },
+      "link": "https://nuphy.com.au/products/field75-wireless-mechanical-gaming-keyboard",
+      "description": "Inspired by the NuPhy Field75 Noether. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
     },
     {
       "id": "nuphy-gem80-cosmic-mocha",
@@ -3043,7 +3059,9 @@
         "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-gem80-cosmic-mocha.clinktheme",
         "sha256": "3505e9420c8c0c4fe33fabb6d1213191a854543e43370dc4f7de9d4bec2f05c8",
         "byteCount": 4200
-      }
+      },
+      "link": "https://nuphy.com/products/gem80-t",
+      "description": "Inspired by the NuPhy Gem80 Cosmic Mocha. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
     },
     {
       "id": "nuphy-gem80-mystic-indigo",
@@ -3284,7 +3302,9 @@
         "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-gem80-mystic-indigo.clinktheme",
         "sha256": "26e15ffbc7dfb5fec7cae0060917e7e223cfe05352636fc9116407786fc4ab1f",
         "byteCount": 4661
-      }
+      },
+      "link": "https://nuphy.com/products/gem80-t",
+      "description": "Inspired by the NuPhy Gem80 Mystic Indigo. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
     },
     {
       "id": "nuphy-halo-blue-lagoon",
@@ -3489,7 +3509,9 @@
         "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-halo-blue-lagoon.clinktheme",
         "sha256": "d9b218893148cef4320c33e1d29f6a4873fb93f8fc4c0f385333487bbea8d211",
         "byteCount": 4116
-      }
+      },
+      "link": "https://nuphy.com/products/halo75-v2-qmk-via-wireless-custom-mechanical-keyboard",
+      "description": "Inspired by the NuPhy Halo75 V2 Blue Lagoon. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
     },
     {
       "id": "nuphy-halo-mojito",
@@ -3670,7 +3692,9 @@
         "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-halo-mojito.clinktheme",
         "sha256": "1fe393b325e4c74aff187d8fd49dc7f3ecfee83d83eff4fbcad30c724bd475a2",
         "byteCount": 3529
-      }
+      },
+      "link": "https://nuphy.com/products/halo75-v2-qmk-via-wireless-custom-mechanical-keyboard",
+      "description": "Inspired by the NuPhy Halo75 V2 Mojito. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
     },
     {
       "id": "nuphy-kick75",
@@ -3904,7 +3928,9 @@
         "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-kick75.clinktheme",
         "sha256": "6e111d2890c7d8a70a3d19c594a27d16262dde951790407e3e4499f3568f47a2",
         "byteCount": 4643
-      }
+      },
+      "link": "https://nuphy.com/products/nuphy-kick75",
+      "description": "Inspired by the NuPhy Kick75. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
     },
     {
       "id": "nuphy-light",
@@ -4126,7 +4152,9 @@
         "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-light.clinktheme",
         "sha256": "ee15312773b0ce2ded78c3c1d63de5af95a4526479409996845be42fd1ff177b",
         "byteCount": 4225
-      }
+      },
+      "link": "https://nuphy.com/products/halo75-v2-qmk-via-wireless-custom-mechanical-keyboard",
+      "description": "Inspired by the NuPhy Halo75 V2 Ionic White. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
     },
     {
       "id": "nuphy-node100-light-pink",
@@ -4346,7 +4374,9 @@
         "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-node100-light-pink.clinktheme",
         "sha256": "89fabee0fe930794b85bb6ba0122a58514868bf9581585e4750f32bac4050fed",
         "byteCount": 4443
-      }
+      },
+      "link": "https://nuphy.com.au/products/nuphy-node100-low-profile-wireless-mechanical-keyboard",
+      "description": "Inspired by the NuPhy Node100 Low-profile Light Pink. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
     },
     {
       "id": "nuphy-node75-ink-gray",
@@ -4566,7 +4596,9 @@
         "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-node75-ink-gray.clinktheme",
         "sha256": "6ea29486d8661c2b7f30634a55f572cd7ba21efa60d319c19299ffcdd115c6ca",
         "byteCount": 4487
-      }
+      },
+      "link": "https://nuphy.com/products/nuphy-node-series-high-profile",
+      "description": "Inspired by the NuPhy Node75 High-profile Ink Gray. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
     },
     {
       "id": "nuphy-node75-lunar-white",
@@ -4786,7 +4818,9 @@
         "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-1ab944205a891a83782e37db987d34b72aefb1fad4c2f6f42f1842d52889f766/nuphy-node75-lunar-white.clinktheme",
         "sha256": "9d77af8bb6a61a9be03e4f73761d1524a61c2e9250467a6a91f9abb142e67c34",
         "byteCount": 4420
-      }
+      },
+      "link": "https://nuphy.com/products/nuphy-node-series-high-profile",
+      "description": "Inspired by the NuPhy Node75 High-profile Lunar White. An unofficial Clink keyboard theme \u2014 not affiliated with NuPhy."
     },
     {
       "id": "quiche-industries-day",

@@ -3,7 +3,7 @@ name: Release themes
 on:
   push:
     branches: [main]
-    paths: ["Themes/**", "tools/**", "tests/**", ".github/workflows/release.yml"]
+    paths: ["Themes/**", "links.json", "tools/**", "tests/**", ".github/workflows/release.yml"]
   workflow_dispatch:
 
 concurrency:
@@ -28,9 +28,11 @@ jobs:
           assets=(Themes/*.clinktheme manifest.json)
           tag=$(python3 -c 'import json; print(json.load(open("manifest.json"))["version"])')
           if draft=$(gh release view "$tag" --json isDraft --jq .isDraft); then
+            # Always refresh assets — theme bytes are content-addressed by tag, but
+            # links.json / descriptions live only in manifest.json and must update
+            # in place when publisher copy changes.
+            gh release upload "$tag" "${assets[@]}" --clobber
             if [ "$draft" = true ]; then
-              # Resume an interrupted upload while the release is still hidden.
-              gh release upload "$tag" "${assets[@]}" --clobber
               gh release edit "$tag" --draft=false --latest
             else
               gh release edit "$tag" --latest
