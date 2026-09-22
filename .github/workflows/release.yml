@@ -28,13 +28,16 @@ jobs:
           assets=(Themes/*.clinktheme manifest.json)
           tag=$(python3 -c 'import json; print(json.load(open("manifest.json"))["version"])')
           if draft=$(gh release view "$tag" --json isDraft --jq .isDraft); then
-            # Always refresh assets — theme bytes are content-addressed by tag, but
-            # links.json / descriptions live only in manifest.json and must update
-            # in place when publisher copy changes.
-            gh release upload "$tag" "${assets[@]}" --clobber
             if [ "$draft" = true ]; then
+              # Resume an interrupted upload while the release is still hidden.
+              gh release upload "$tag" "${assets[@]}" --clobber
               gh release edit "$tag" --draft=false --latest
             else
+              # The tag is content-addressed over theme bytes, so the published
+              # .clinktheme assets can never change under it and re-uploading
+              # them only 404s whoever is mid-download. links.json descriptions
+              # live in manifest.json alone, so that one file refreshes in place.
+              gh release upload "$tag" manifest.json --clobber
               gh release edit "$tag" --latest
             fi
           else
