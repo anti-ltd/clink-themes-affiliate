@@ -3,7 +3,7 @@ name: Release themes
 on:
   push:
     branches: [main]
-    paths: ["Themes/**", "links.json", "tools/**", "tests/**", ".github/workflows/release.yml"]
+    paths: ["platforms.json", "Themes/**", "links.json", "tools/**", "tests/**", ".github/workflows/release.yml"]
   workflow_dispatch:
 
 concurrency:

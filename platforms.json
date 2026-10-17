@@ -1,0 +1,7 @@
+{
+  "default": "both",
+  "overrides": {
+    "quiche-industries-day": "ios",
+    "quiche-industries-night": "ios"
+  }
+}

@@ -130,3 +130,9 @@ python3 tools/update-readme-gallery.py /path/to/exported-attachments
 ```
 
 The gallery uses Clink's production keyboard renderer. [`README-assets/preview-manifest.json`](README-assets/preview-manifest.json) records the theme and preview checksums for each capture.
+
+## Platform availability
+
+`platforms.json` sets the default platform for packs in this repository and optional overrides keyed by pack ID (language code or locale for language packs). Use `ios`, `android`, or `both`. The manifest builder writes `platform` on every entry; older entries without it mean `both`. Platform targeting affects repository discovery and downloads, not the portable format of a person’s own exported content.
+
+Quiche Industries day and night are iOS-only at the publisher’s request. Every other pack is available on both platforms.

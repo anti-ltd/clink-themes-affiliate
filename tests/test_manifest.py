@@ -139,6 +139,24 @@ class ManifestTests(unittest.TestCase):
         self.assertEqual([p["preview"] for p in first["themes"]],
                          [p["preview"] for p in updated["themes"]])
 
+    def test_targeting_changes_metadata_without_changing_verified_assets(self):
+        before = self.build()
+        policy = {"default": "both", "overrides": {"quiche-industries-day": "ios", "quiche-industries-night": "ios"}}
+        (self.root / "platforms.json").write_text(json.dumps(policy))
+        after = self.build()
+        self.assertEqual(before["version"], after["version"])
+        for old, new in zip(before["themes"], after["themes"]):
+            self.assertEqual(new["platform"], policy["overrides"].get(new["id"], "both"))
+            self.assertEqual(old["asset"], new["asset"])
+            self.assertEqual(old["preview"], new["preview"])
+
+    def test_repository_default_can_be_android_with_ios_and_both_overrides(self):
+        (self.root / "platforms.json").write_text(json.dumps({"default": "android", "overrides": {"quiche-industries-day": "ios", "quiche-industries-night": "both"}}))
+        rows = {entry["id"]: entry["platform"] for entry in self.build()["themes"]}
+        self.assertEqual(rows.pop("quiche-industries-day"), "ios")
+        self.assertEqual(rows.pop("quiche-industries-night"), "both")
+        self.assertTrue(all(platform == "android" for platform in rows.values()))
+
 
 if __name__ == "__main__":
     unittest.main()

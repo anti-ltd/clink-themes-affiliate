@@ -259,7 +259,8 @@
         "byteCount": 5251
       },
       "link": "https://clicksnclacks.com",
-      "description": "Weekly newsletter filled with awesome links (clicks \ud83d\udd17) and cool keyboards (clacks \u2328\ufe0f) \u2014 indie app development, tech news, interesting articles, fancy websites, and lots of keebs."
+      "description": "Weekly newsletter filled with awesome links (clicks \ud83d\udd17) and cool keyboards (clacks \u2328\ufe0f) \u2014 indie app development, tech news, interesting articles, fancy websites, and lots of keebs.",
+      "platform": "both"
     },
     {
       "id": "clicks-n-clacks-light",
@@ -519,7 +520,8 @@
         "byteCount": 5349
       },
       "link": "https://clicksnclacks.com",
-      "description": "Weekly newsletter filled with awesome links (clicks \ud83d\udd17) and cool keyboards (clacks \u2328\ufe0f) \u2014 indie app development, tech news, interesting articles, fancy websites, and lots of keebs."
+      "description": "Weekly newsletter filled with awesome links (clicks \ud83d\udd17) and cool keyboards (clacks \u2328\ufe0f) \u2014 indie app development, tech news, interesting articles, fancy websites, and lots of keebs.",
+      "platform": "both"
     },
     {
       "id": "delphi-day",
@@ -788,7 +790,8 @@
         "byteCount": 5396
       },
       "link": "https://delphi.tools",
-      "description": "delphitools is a free and open source toolkit for habitual computer touchers."
+      "description": "delphitools is a free and open source toolkit for habitual computer touchers.",
+      "platform": "both"
     },
     {
       "id": "delphi-night",
@@ -1057,7 +1060,8 @@
         "byteCount": 5406
       },
       "link": "https://delphi.tools",
-      "description": "delphitools is a free and open source toolkit for habitual computer touchers."
+      "description": "delphitools is a free and open source toolkit for habitual computer touchers.",
+      "platform": "both"
     },
     {
       "id": "quiche-industries-day",
@@ -1166,7 +1170,8 @@
         "byteCount": 1605
       },
       "link": "https://quiche.industries",
-      "description": "One person making a customisable browser and a read-later app, both named after a pie. No tracking, no telemetry, no signup."
+      "description": "One person making a customisable browser and a read-later app, both named after a pie. No tracking, no telemetry, no signup.",
+      "platform": "ios"
     },
     {
       "id": "quiche-industries-night",
@@ -1275,7 +1280,8 @@
         "byteCount": 1712
       },
       "link": "https://quiche.industries",
-      "description": "One person making a customisable browser and a read-later app, both named after a pie. No tracking, no telemetry, no signup."
+      "description": "One person making a customisable browser and a read-later app, both named after a pie. No tracking, no telemetry, no signup.",
+      "platform": "ios"
     },
     {
       "id": "take-off-dark",
@@ -1416,7 +1422,8 @@
         "byteCount": 2090
       },
       "link": "https://apps.apple.com/gb/app/takeoff-simplified-flights/id6763347742",
-      "description": "A flight tracker that won\u2019t sell your data. No ads, no accounts, and a simple interface."
+      "description": "A flight tracker that won\u2019t sell your data. No ads, no accounts, and a simple interface.",
+      "platform": "both"
     },
     {
       "id": "take-off-light",
@@ -1557,7 +1564,8 @@
         "byteCount": 2231
       },
       "link": "https://apps.apple.com/gb/app/takeoff-simplified-flights/id6763347742",
-      "description": "A flight tracker that won\u2019t sell your data. No ads, no accounts, and a simple interface."
+      "description": "A flight tracker that won\u2019t sell your data. No ads, no accounts, and a simple interface.",
+      "platform": "both"
     },
     {
       "id": "threadflow-light",
@@ -1705,7 +1713,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-165a82ec4711c1c129a00663161770ce8549b6193c67c07c4b60ef0895cf311d/threadflow-light.clinktheme",
         "sha256": "19dd20f39cb9110b2a78a720ae03a07aeab351853d21df821ca578b12b0fdde1",
         "byteCount": 2632
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "threadflow",
@@ -1853,7 +1862,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-affiliate/releases/download/themes-165a82ec4711c1c129a00663161770ce8549b6193c67c07c4b60ef0895cf311d/threadflow.clinktheme",
         "sha256": "f642c68d887326bdc0078f639b23e9c7688e869743c1da1febe677ed1e4f5181",
         "byteCount": 2633
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "threadify-dark",
@@ -2064,7 +2074,8 @@
         "byteCount": 3846
       },
       "link": "https://threadify.app",
-      "description": "Schedules your posts for Threads, X and LinkedIn from one place."
+      "description": "Schedules your posts for Threads, X and LinkedIn from one place.",
+      "platform": "both"
     },
     {
       "id": "threadify-light",
@@ -2233,7 +2244,8 @@
         "byteCount": 2937
       },
       "link": "https://threadify.app",
-      "description": "Schedules your posts for Threads, X and LinkedIn from one place."
+      "description": "Schedules your posts for Threads, X and LinkedIn from one place.",
+      "platform": "both"
     },
     {
       "id": "walley-dark",
@@ -2382,7 +2394,8 @@
         "byteCount": 2610
       },
       "link": "https://apps.apple.com/gb/app/walley-wallpaper-backgrounds/id6504028503",
-      "description": "Walley is a premium wallpaper app crafted for beautiful iPhone setups."
+      "description": "Walley is a premium wallpaper app crafted for beautiful iPhone setups.",
+      "platform": "both"
     },
     {
       "id": "walley-light",
@@ -2531,7 +2544,8 @@
         "byteCount": 2617
       },
       "link": "https://apps.apple.com/gb/app/walley-wallpaper-backgrounds/id6504028503",
-      "description": "Walley is a premium wallpaper app crafted for beautiful iPhone setups."
+      "description": "Walley is a premium wallpaper app crafted for beautiful iPhone setups.",
+      "platform": "both"
     }
   ]
 }
