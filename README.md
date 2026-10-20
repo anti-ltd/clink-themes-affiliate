@@ -15,7 +15,7 @@ Themes change the keyboard's colours, materials, type treatment, and gradients. 
 <!-- theme-gallery:start -->
 ## Included themes
 
-14 keyboard themes. Select a name to open its theme file, or a preview to see it at full size.
+15 keyboard themes. Select a name to open its theme file, or a preview to see it at full size.
 
 ### Solid
 
@@ -54,6 +54,8 @@ Themes change the keyboard's colours, materials, type treatment, and gradients. 
 | --- | --- |
 | <a href="Themes/walley-dark.clinktheme"><strong>Walley Dark</strong></a><br><a href="README-assets/previews/walley-dark.png"><img src="README-assets/previews/walley-dark.png" width="400" alt="Walley Dark keyboard preview"></a> | <a href="Themes/walley-light.clinktheme"><strong>Walley Light</strong></a><br><a href="README-assets/previews/walley-light.png"><img src="README-assets/previews/walley-light.png" width="400" alt="Walley Light keyboard preview"></a> |
 
+
+[Nico](Themes/nico.clinktheme) adds a Neowriter theme with paired light and dark appearances, available on iOS and Android.
 
 The complete collection is published under [`Themes/`](Themes). The generated [`manifest.json`](manifest.json) describes every release asset.
 
